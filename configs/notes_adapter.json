@@ -1,0 +1,39 @@
+{
+  "adapter_id": "notes_v1",
+  "domain": "notes",
+  "display_name": "Note-taking Style Adapter v1",
+  "base_model": "phi3-mini",
+  "privacy_scope": ["local_notes", "writing_style"],
+  "activation_memory_mb": 110,
+  
+  "training": {
+    "num_epochs": 1,
+    "batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 2e-4,
+    "warmup_steps": 40,
+    "max_length": 1792
+  },
+  
+  "lora": {
+    "lora_r": 12,
+    "lora_alpha": 24,
+    "lora_dropout": 0.05,
+    "target_modules": ["q_proj", "k_proj"]
+  },
+  
+  "data": {
+    "train_file": "data/notes/train.jsonl",
+    "val_file": "data/notes/val.jsonl",
+    "max_examples": 4000
+  },
+  
+  "evaluation": {
+    "eval_steps": 100,
+    "eval_prompts": [
+      "Summarize the key points from today's meeting",
+      "Create a todo list for project deliverables",
+      "Write a brief note about the new feature requirements"
+    ]
+  }
+}

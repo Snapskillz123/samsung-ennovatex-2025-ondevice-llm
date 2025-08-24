@@ -1,0 +1,39 @@
+{
+  "adapter_id": "comm_v1",
+  "domain": "communication",
+  "display_name": "Communication Style Adapter v1",
+  "base_model": "phi3-mini",
+  "privacy_scope": ["personal_texts", "whatsapp_messages"],
+  "activation_memory_mb": 120,
+  
+  "training": {
+    "num_epochs": 1,
+    "batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 2e-4,
+    "warmup_steps": 50,
+    "max_length": 2048
+  },
+  
+  "lora": {
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.05,
+    "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj"]
+  },
+  
+  "data": {
+    "train_file": "data/communication/train.jsonl",
+    "val_file": "data/communication/val.jsonl",
+    "max_examples": 5000
+  },
+  
+  "evaluation": {
+    "eval_steps": 100,
+    "eval_prompts": [
+      "Hey, how are you doing today?",
+      "What do you think about this new restaurant?",
+      "Can you help me with something real quick?"
+    ]
+  }
+}

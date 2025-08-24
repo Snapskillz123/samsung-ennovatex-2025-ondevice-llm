@@ -1,0 +1,39 @@
+{
+  "adapter_id": "cal_v1",
+  "domain": "calendar",
+  "display_name": "Calendar & Scheduling Adapter v1",
+  "base_model": "phi3-mini",
+  "privacy_scope": ["calendar_entries", "scheduling_preferences"],
+  "activation_memory_mb": 100,
+  
+  "training": {
+    "num_epochs": 1,
+    "batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 1.5e-4,
+    "warmup_steps": 30,
+    "max_length": 1536
+  },
+  
+  "lora": {
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "target_modules": ["k_proj", "o_proj"]
+  },
+  
+  "data": {
+    "train_file": "data/calendar/train.jsonl",
+    "val_file": "data/calendar/val.jsonl",
+    "max_examples": 3000
+  },
+  
+  "evaluation": {
+    "eval_steps": 100,
+    "eval_prompts": [
+      "Schedule a meeting for tomorrow morning",
+      "What time is my next appointment?",
+      "Can we reschedule the 3pm meeting to 4pm?"
+    ]
+  }
+}
