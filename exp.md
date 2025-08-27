@@ -436,5 +436,3 @@ Inference Performance:
 ---
 
 
-*Team: Snapskillz123*  
-*Contact: https://github.com/Snapskillz123/samsung-ennovatex-2025-ondevice-llm*
