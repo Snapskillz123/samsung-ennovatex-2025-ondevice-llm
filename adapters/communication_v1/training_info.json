@@ -1,0 +1,17 @@
+{
+  "model_id": "microsoft/Phi-3-mini-4k-instruct",
+  "adapter_name": "communication_v1",
+  "training_examples": 817,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj"
+  ],
+  "task_type": "casual conversation and communication",
+  "created_by": "Samsung EnnovateX 2025 Framework",
+  "gpu_required": true,
+  "demo_mode": true
+}

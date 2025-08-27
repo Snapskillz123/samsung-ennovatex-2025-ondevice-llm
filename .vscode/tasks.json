@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Samsung EnnovateX - Setup Environment",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-c",
+				"import sys; print(f'Python {sys.version}'); import torch; print(f'PyTorch: {torch.__version__}'); print('🎉 Environment ready for Samsung EnnovateX 2025!')"
+			],
+			"group": "build",
+			"problemMatcher": [],
+			"isBackground": false
+		}
+	]
+}

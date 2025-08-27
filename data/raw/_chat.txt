@@ -1,0 +1,2058 @@
+[11/06/25, 3:44:15 PM] Samsung Hackathon: ‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
+[11/06/25, 3:44:15 PM] ~ Tanmay: ‎~ Tanmay created group “mit blr hackathon”
+[11/06/25, 3:44:15 PM] Samsung Hackathon: ‎~ Tanmay added you
+[11/06/25, 3:44:18 PM] ~ Tanmay: hi
+[11/06/25, 3:44:23 PM] ~ Isha Sarvani: hie
+[11/06/25, 3:44:31 PM] Sambhavit Anand: yo
+[11/06/25, 3:44:42 PM] ~ Isha Sarvani: Do we need to submit a report
+[11/06/25, 3:44:46 PM] Sambhavit Anand: what are the dates?
+[11/06/25, 3:44:46 PM] ~ Tanmay: AI vs AI: Detecting Deepfakes and Misinformation
+
+AI-generated misinformation and deepfakes are increasingly used for political manipulation, social engineering, and cyber warfare. This track challenges participants to harness AI to detect and neutralize deepfakes, malicious algorithms, and AI-powered scams.
+[11/06/25, 3:44:54 PM] ~ Tanmay: sending everything here gimme a min
+[11/06/25, 3:44:58 PM] ‎You: ‎You pinned a message
+[11/06/25, 3:45:01 PM] ~ Isha Sarvani: Regardless we'll prepare in advance
+[11/06/25, 3:45:49 PM] ~ Tanmay: Greetings from MITB ACM Student Chapter!
+
+We're thrilled to invite students from your institute to HackSky – a Pan-India Cybersecurity Hackathon organized by the MITB ACM Student Chapter in collaboration with Kaspersky and the School of Computer Science & Engineering, MIT Bengaluru.
+
+🔐 Event Details:
+
+Name: HackSky – Pan-India Cybersecurity Hackathon
+
+Dates: July 29th – 31st , 2025
+
+Venue: Manipal Institute of Technology Bengaluru
+
+Eligibility: Open to all UG & PG students across India
+
+Registration Fee: Absolutely free!
+
+🎯 Theme: “Outsmart cyber adversaries. Disrupt the disruptors.”
+
+👾 Why participate?
+
+Win exciting cash prizes & goodies
+
+Networking opportunities with Kaspersky
+
+Certificate of Participation for all attendees
+
+Real-world problem solving in a fast-paced, competitive format
+
+Participants can register solo or in teams to take on AI-driven cybersecurity challenges designed to test and sharpen their skills.
+
+🚀 Registrations are live!
+Scan the QR code in the attached poster or register via the link:
+🔗 https://hacksky.mitb.hosting.acm.org/
+
+We’d be grateful if you could circulate this invite among your students and encourage them to be a part of this national-level challenge.
+[11/06/25, 3:46:12 PM] ~ Tanmay: https://hacksky.mitb.hosting.acm.org/
+[11/06/25, 3:46:52 PM] ~ Tanmay:
+‎[11/06/25, 3:46:52 PM] ~ Tanmay: ‎<attached: 00000016-PHOTO-2025-06-11-15-46-53.jpg>
+‎[11/06/25, 3:46:52 PM] ~ Tanmay: ‎<attached: 00000017-PHOTO-2025-06-11-15-46-53.jpg>
+[11/06/25, 3:47:14 PM] ~ Tanmay: Round 1 online evaluation is 20th to 30th June I see
+[11/06/25, 3:49:26 PM] ~ Isha Sarvani: Very very close
+[11/06/25, 3:49:51 PM] ~ Isha Sarvani: Any rough ideas anyone has right off the bat
+[11/06/25, 3:50:43 PM] ~ Isha Sarvani: What's in the normal Hack
+‎[11/06/25, 3:52:04 PM] ~ Tanmay: ‎<attached: 00000022-PHOTO-2025-06-11-15-52-05.jpg>
+[11/06/25, 3:52:37 PM] ~ Isha Sarvani: Interesting
+[11/06/25, 3:52:48 PM] ~ Tanmay: we can do something with ai for this one
+[11/06/25, 3:53:42 PM] Sambhavit Anand: ai generated thirst traps?
+[11/06/25, 3:53:53 PM] ~ Isha Sarvani: 😂😂😂
+[11/06/25, 3:54:12 PM] ~ Tanmay: social graphing the people who cold dm and stuff
+
+and maybe some systems that companies can implement internally based on various factors like frequency of identity changing in profile, or Freq of dming random people, you get the idea
+[11/06/25, 3:55:36 PM] ~ Tanmay: this sounds more technical and has more scope
+[11/06/25, 3:56:03 PM] ~ Tanmay: however the last one is cool bec it's so random everyone will present similar solutions
+[11/06/25, 3:58:30 PM] ~ Isha Sarvani: uh huh makes sense
+[11/06/25, 3:58:34 PM] ~ Isha Sarvani: I agree
+[11/06/25, 4:47:29 PM] ~ Tanmay: we can finalise by tonight?
+[11/06/25, 4:48:42 PM] Sambhavit Anand: yes
+[11/06/25, 7:47:26 PM] ~ Aaron Fritz: ‎~ Isha Sarvani added ~ Aaron Fritz. Tap to change who can add other members.
+[11/06/25, 9:09:43 PM] ~ Tanmay: hi, what did we decide here?
+[11/06/25, 9:09:50 PM] Sambhavit Anand: im down
+[11/06/25, 9:09:54 PM] Sambhavit Anand: with the AI one
+[11/06/25, 9:10:14 PM] ~ Tanmay: @919063011127 wbu
+[11/06/25, 9:10:38 PM] ~ Tanmay: Adwait (SM) is asking me too rn
+[11/06/25, 9:10:45 PM] ~ Tanmay: So I need to tell him
+[11/06/25, 9:10:54 PM] ~ Isha Sarvani: Seniors coming or something?
+[11/06/25, 9:11:27 PM] ~ Isha Sarvani: Does any one of y'all know front/back end ?
+[11/06/25, 9:11:31 PM] ~ Isha Sarvani: Just asking
+[11/06/25, 9:11:36 PM] ~ Tanmay: no I had asked him to form a team with me because nobody else was interested, if you guys want to go then I'll tell him
+[11/06/25, 9:11:42 PM] ~ Tanmay: Not me
+[11/06/25, 9:12:28 PM] ~ Isha Sarvani: Hm if any other senior is interested we can form two teams
+[11/06/25, 9:13:05 PM] ~ Tanmay: both for the 2nd one? Or which problem statement are you planning for
+[11/06/25, 9:13:08 PM] ~ Isha Sarvani: Like since there are 4 people interested in juniors and it would be nice to have a senior each cos they are a little more experienced
+[11/06/25, 9:13:24 PM] ~ Isha Sarvani: The ai vs ai
+[11/06/25, 9:13:39 PM] ~ Isha Sarvani: Two teams for the same thing possib
+[11/06/25, 9:13:45 PM] ~ Tanmay: Nop
+[11/06/25, 9:13:52 PM] ~ Isha Sarvani: Damn okau
+[11/06/25, 9:13:56 PM] ~ Tanmay: also I'd recommend you to go with a JM only team
+[11/06/25, 9:14:09 PM] ~ Tanmay: i would've been doing the first PS otherwise 😓
+[11/06/25, 9:14:25 PM] ~ Isha Sarvani: The first one full ?
+[11/06/25, 9:15:24 PM] ~ Tanmay: yes.
+[11/06/25, 9:16:23 PM] ~ Isha Sarvani: So everything's full except ai vs ai?
+[11/06/25, 9:17:14 PM] ~ Tanmay: 2nd and 3rd is free
+[11/06/25, 9:17:24 PM] ~ Tanmay: AI & the honey trap thing
+[11/06/25, 9:17:31 PM] ~ Isha Sarvani: alright thanks for clearing that up
+[11/06/25, 9:17:46 PM] ~ Isha Sarvani: Why is that the case
+[11/06/25, 9:18:20 PM] ~ Tanmay: Good for experience
+[11/06/25, 9:18:38 PM] ~ Tanmay: Last year current SMs went to outstation hackathon for their first event with JM only teams as well ‎<This message was edited>
+[11/06/25, 9:19:01 PM] ~ Isha Sarvani: I mean wouldn't it be nicer for someone experienced to guide us along the way so we don't make mistakes and stuff
+[11/06/25, 9:19:12 PM] ~ Isha Sarvani: And someone who knows what's going on overall?
+[11/06/25, 9:19:24 PM] ~ Isha Sarvani: I see
+[11/06/25, 9:19:37 PM] ~ Tanmay: Personally, its a much better learning experience to figure stuff out on our own, but maybe that's just me
+[11/06/25, 9:20:57 PM] ~ Tanmay: @918779635194 chime in what to do
+he's asking me
+[11/06/25, 9:21:22 PM] Sambhavit Anand: hi, in the crypto meet with madhav
+[11/06/25, 9:21:38 PM] Sambhavit Anand: will be back to see
+[11/06/25, 9:22:01 PM] ~ Tanmay: okay
+[11/06/25, 9:22:43 PM] ~ Isha Sarvani: I agree to some extent but I felt we'd get a few nice tips and tricks here and there from the sms , if they are willing to participate, also increases our chances of winning no ? I don't mean to argue or anything so just feel free to let me know the why's
+[11/06/25, 9:23:55 PM] ~ Tanmay: Also do note there's only 1 SM interested rn
+[11/06/25, 9:24:22 PM] ~ Tanmay: Sure you're not wrong
+[11/06/25, 9:25:13 PM] ~ Isha Sarvani: you specifically asked adwait right ? Maybe I can ask aditreyo or kaaviya of that's the only thing that's stopping us but yeah we'll obviously have to call this off if another senior is not interested
+[11/06/25, 9:25:56 PM] ~ Tanmay: We need to decide the split for teams and our PS quickly, I'll wait for Sambhavit and Aaron to come
+[11/06/25, 9:26:31 PM] ~ Isha Sarvani: Okayyy , Let's confirm with them and go about it
+[11/06/25, 9:26:32 PM] ~ Tanmay: No I asked Lakshit to ask if any SMs were interested and then Adwait messaged me.
+
+But I can ask around, do you want me to ask other SMs ‎<This message was edited>
+[11/06/25, 9:27:35 PM] ~ Isha Sarvani: If you can ask ai seniors like kaaviya meeti and aditreyo, you can even contact misha , that you be really great
+[11/06/25, 9:29:04 PM] ~ Tanmay: I'll ask but we need to be clear on how many seniors we need, I don't want to ask everyone and then it will be a bit of a mess
+
+I'll wait for aaron and sambhavit to come
+[11/06/25, 9:29:09 PM] ~ Tanmay: And then we'll see?
+[11/06/25, 9:29:24 PM] ~ Isha Sarvani: Yes yes alrightyy
+[11/06/25, 10:24:44 PM] ~ Tanmay: @918779635194 @919946169883 !!
+[11/06/25, 10:25:05 PM] ~ Aaron Fritz: yes
+[11/06/25, 10:25:12 PM] ~ Aaron Fritz: I'd rather go alone
+[11/06/25, 10:25:15 PM] ~ Aaron Fritz: jms only
+[11/06/25, 10:25:27 PM] ~ Aaron Fritz: we're going for experience not to win
+[11/06/25, 10:25:35 PM] ~ Aaron Fritz: and if we come close to winning, it's all us
+[11/06/25, 10:27:10 PM] ~ Tanmay: agree
+[11/06/25, 10:27:22 PM] ~ Tanmay: but we're 4 people, what about teams
+[11/06/25, 10:28:27 PM] ~ Aaron Fritz: y'all decide how you wanna do it
+[11/06/25, 10:28:42 PM] ~ Aaron Fritz: if we're going for the ai statement
+[11/06/25, 10:28:47 PM] ~ Aaron Fritz: then we send ai ppl
+[11/06/25, 10:29:34 PM] ~ Isha Sarvani: hm makes sense
+[11/06/25, 10:31:02 PM] ~ Tanmay: is any of you willing to do the 3rd PS
+[11/06/25, 10:31:15 PM] ~ Tanmay: this
+[11/06/25, 10:32:11 PM] ~ Aaron Fritz: i personally don't have much experience with the topic, i could look into it
+[11/06/25, 10:36:57 PM] Sambhavit Anand: yo sorry
+[11/06/25, 10:37:19 PM] Sambhavit Anand: let me just read through the chats
+[11/06/25, 10:37:44 PM] ~ Tanmay: cool
+[11/06/25, 10:38:31 PM] Sambhavit Anand: yeah so
+[11/06/25, 10:38:52 PM] Sambhavit Anand: i’ll ask Aditreo
+[11/06/25, 10:39:02 PM] Sambhavit Anand: and someone said adwait also wanted
+[11/06/25, 10:39:20 PM] ~ Aaron Fritz: we're not partnering with SM
+[11/06/25, 10:39:24 PM] Sambhavit Anand: so teams of 3 and 3
+[11/06/25, 10:39:30 PM] Sambhavit Anand: why not?
+[11/06/25, 10:39:38 PM] ~ Aaron Fritz: .
+[11/06/25, 10:39:42 PM] ~ Aaron Fritz: .
+[11/06/25, 10:39:55 PM] Sambhavit Anand: hmm
+[11/06/25, 10:40:31 PM] Sambhavit Anand: tbh i was thinking
+[11/06/25, 10:40:32 PM] ~ Aaron Fritz: ukw, ill bite
+[11/06/25, 10:40:40 PM] Sambhavit Anand: 3 - 3 people ka 2 teams
+[11/06/25, 10:40:39 PM] ~ Aaron Fritz: what would the teams look lie
+[11/06/25, 10:40:41 PM] ~ Aaron Fritz: like
+[11/06/25, 10:40:48 PM] ~ Aaron Fritz: yeah go ahead, list team members
+[11/06/25, 10:40:55 PM] Sambhavit Anand: so
+[11/06/25, 10:41:35 PM] Sambhavit Anand: Adwait
+JM1
+JM3
+
+
+Aditreo
+JM2
+JM4
+[11/06/25, 10:41:53 PM] ~ Aaron Fritz: what domains are Adwait part of
+[11/06/25, 10:42:10 PM] ~ Isha Sarvani: did he say yes
+[11/06/25, 10:42:19 PM] Sambhavit Anand: idk but he said he was interested so i’m assuming he has some knowledge
+[11/06/25, 10:42:24 PM] Sambhavit Anand: didn’t ask yet
+[11/06/25, 10:42:29 PM] ~ Aaron Fritz: mmm
+[11/06/25, 10:42:35 PM] Sambhavit Anand: first let’s see if we’re even doing it with seniors
+[11/06/25, 10:42:40 PM] ~ Aaron Fritz: since we can only have one team per problem statement
+[11/06/25, 10:42:45 PM] ~ Aaron Fritz: and if we are taking seniors
+[11/06/25, 10:42:54 PM] ~ Aaron Fritz: me isha and adri will go for the AI one
+[11/06/25, 10:43:06 PM] ~ Aaron Fritz: you tanmay and adwait go for the 3rd one
+[11/06/25, 10:43:07 PM] ~ Aaron Fritz: works?
+[11/06/25, 10:43:10 PM] Sambhavit Anand: no
+[11/06/25, 10:43:17 PM] Sambhavit Anand: i think leave teams upto them
+[11/06/25, 10:43:30 PM] ~ Aaron Fritz: upto whom?
+[11/06/25, 10:43:35 PM] Sambhavit Anand: SM’s
+[11/06/25, 10:43:41 PM] ~ Aaron Fritz: they'd pick the same
+[11/06/25, 10:43:47 PM] Sambhavit Anand: ok so let them
+[11/06/25, 10:43:52 PM] ~ Aaron Fritz: okay
+[11/06/25, 10:44:01 PM] ~ Aaron Fritz: first ask if adri and adwait are in
+[11/06/25, 10:44:12 PM] Sambhavit Anand: ok i’ll message
+[11/06/25, 10:44:27 PM] ~ Aaron Fritz: okay
+[12/06/25, 2:06:42 AM] ~ Tanmay: lmk if you got a reply
+‎[12/06/25, 11:30:19 AM] Sambhavit Anand: ‎<attached: 00000140-PHOTO-2025-06-12-11-30-19.jpg>
+[12/06/25, 11:30:32 AM] ~ Aaron Fritz: figuref
+[12/06/25, 12:31:09 PM] ~ Tanmay: whats the plan then
+[13/06/25, 6:19:34 AM] Sambhavit Anand: @919063011127 @919946169883 can you guys confirm
+[13/06/25, 10:49:30 AM] ~ Isha Sarvani: I think we'll both do it yeah
+[13/06/25, 10:58:13 AM] Sambhavit Anand: ok so sorted
+[13/06/25, 3:28:10 PM] Samsung Hackathon: ‎You're now an admin
+[13/06/25, 3:28:10 PM] ~ Tanmay: ‎~ Tanmay left
+[13/06/25, 3:35:20 PM] ~ Tanmay: ‎~ Tanmay was added
+[13/06/25, 3:28:07 PM] ~ Tanmay: good luck ppl
+[22/06/25, 8:53:48 PM] ~ Isha Sarvani: Geli
+[22/06/25, 8:53:51 PM] ~ Isha Sarvani: Helo
+[23/06/25, 12:29:39 AM] ~ Tanmay: ‎~ Tanmay left
+[23/06/25, 6:50:03 PM] ~ Isha Sarvani: guys i think we need to register
+[23/06/25, 6:58:10 PM] ~ Isha Sarvani: power rangers
+[23/06/25, 6:58:19 PM] ~ Isha Sarvani: If not niteranger
+[23/06/25, 6:59:30 PM] ~ Aaron Fritz: okay
+[23/06/25, 6:59:45 PM] ~ Isha Sarvani: Send me emails and phone numbers both of tou
+[23/06/25, 6:59:50 PM] ~ Isha Sarvani: And whatever your role is
+[23/06/25, 7:01:07 PM] ~ Aaron Fritz: ‎This message was deleted.
+[23/06/25, 7:02:03 PM] ~ Aaron Fritz: aaron2.mitmpl2024@learner.manipal.edu
+9946169883
+[23/06/25, 7:02:10 PM] ~ Isha Sarvani: Aaron can you call shambhavi
+[23/06/25, 7:02:14 PM] ~ Isha Sarvani: Sambhavit
+[23/06/25, 7:02:14 PM] ~ Aaron Fritz: no
+[23/06/25, 7:02:18 PM] ~ Aaron Fritz: you're team lead
+[23/06/25, 7:02:20 PM] ~ Aaron Fritz: i delegate you
+[23/06/25, 7:02:23 PM] ~ Aaron Fritz: you call
+[23/06/25, 7:02:26 PM] ~ Isha Sarvani: Or atleast get his email from somewhere
+[23/06/25, 7:02:27 PM] ~ Aaron Fritz: pokemon go
+[23/06/25, 7:02:33 PM] ~ Isha Sarvani: 🔫
+[23/06/25, 7:02:34 PM] ~ Aaron Fritz: get his email from teams
+[23/06/25, 7:05:50 PM] Sambhavit Anand: Yo ‎<This message was edited>
+[23/06/25, 7:06:42 PM] Sambhavit Anand: sambhavit.mitmpl2024@learner.manipal.edu
+8779635194
+[23/06/25, 7:16:49 PM] ~ Isha Sarvani: Guys check you emails if you've got any kind of confirmation mail or something
+[23/06/25, 7:21:14 PM] ~ Isha Sarvani: Also
+[23/06/25, 7:21:39 PM] ~ Isha Sarvani: Very soon we'll be getting a mail saying we have 60 hours to submit a ppt
+[23/06/25, 7:21:47 PM] ~ Isha Sarvani: Detailing our plan
+[23/06/25, 7:22:01 PM] ~ Isha Sarvani: I asked other teams who have already gotten it and submitted
+‎[23/06/25, 7:22:16 PM] ~ Isha Sarvani: ‎<attached: 00000178-PHOTO-2025-06-23-19-22-17.jpg>
+‎[23/06/25, 7:22:36 PM] ~ Isha Sarvani: ‎<attached: 00000179-PHOTO-2025-06-23-19-22-37.jpg>
+[23/06/25, 7:22:57 PM] ~ Isha Sarvani: okay so I think we should start formulating our ideas
+[23/06/25, 7:23:34 PM] ~ Aaron Fritz: lmao
+[23/06/25, 7:24:03 PM] ~ Isha Sarvani: 🔫
+[23/06/25, 7:24:24 PM] ~ Aaron Fritz: we're fucked
+[23/06/25, 7:24:34 PM] ~ Isha Sarvani: we didn't get the mail yet
+[23/06/25, 7:24:49 PM] ~ Aaron Fritz: yay
+[23/06/25, 7:25:01 PM] ~ Isha Sarvani: but we should be ready by max a day
+[23/06/25, 7:25:37 PM] Sambhavit Anand: sorted
+[23/06/25, 7:25:52 PM] ~ Isha Sarvani: kaise
+[23/06/25, 7:26:07 PM] ~ Isha Sarvani: should we get on a meet / ask ai seniors for help , how are we going about this
+[23/06/25, 7:26:18 PM] ~ Aaron Fritz: first
+[23/06/25, 7:26:18 PM] ~ Isha Sarvani: do u know frontend
+[23/06/25, 7:26:22 PM] ~ Aaron Fritz: we do
+[23/06/25, 7:26:25 PM] ~ Aaron Fritz: our own research
+[23/06/25, 7:26:29 PM] Sambhavit Anand: back end i can do with cpp
+[23/06/25, 7:26:28 PM] ~ Aaron Fritz: what is problem statement
+[23/06/25, 7:26:47 PM] ~ Isha Sarvani: aaron can u pull off front end using ai ?
+[23/06/25, 7:26:51 PM] ~ Aaron Fritz: sure
+[23/06/25, 7:26:54 PM] ~ Aaron Fritz: we'll see
+[23/06/25, 7:26:57 PM] ~ Isha Sarvani: okay great
+[23/06/25, 7:26:58 PM] Sambhavit Anand: or
+[23/06/25, 7:27:03 PM] ~ Isha Sarvani: 😭
+[23/06/25, 7:27:08 PM] ~ Aaron Fritz: backend is python
+[23/06/25, 7:27:11 PM] ~ Aaron Fritz: has to be python
+[23/06/25, 7:27:15 PM] ~ Aaron Fritz: cause its an AI prob statement
+[23/06/25, 7:27:16 PM] Sambhavit Anand: we can just spam cursor
+[23/06/25, 7:27:33 PM] Sambhavit Anand: pretty sure it will do frontend and backend
+[23/06/25, 7:27:43 PM] ~ Aaron Fritz: yeah
+[23/06/25, 7:27:50 PM] ~ Aaron Fritz: again, what is the detailed problem statement
+[23/06/25, 7:27:57 PM] ~ Aaron Fritz: something to do with deepfakes, i know
+[23/06/25, 7:28:03 PM] ~ Aaron Fritz: but do we know anything more than that
+[23/06/25, 7:28:10 PM] ~ Isha Sarvani: Yeah
+[23/06/25, 7:28:20 PM] ~ Isha Sarvani: It's literally pinned
+[23/06/25, 7:28:22 PM] ~ Isha Sarvani: ☠️
+[23/06/25, 7:28:25 PM] Sambhavit Anand: react i think for frontend
+[23/06/25, 7:28:31 PM] Sambhavit Anand: let’s do a meet tomorrow
+‎[23/06/25, 7:28:48 PM] ~ Isha Sarvani: Round 1_ Online Evaluation – Rules and Guidelines.pdf • ‎3 pages ‎<attached: 00000216-Round 1_ Online Evaluation – Rules and Guidelines.pdf>
+[23/06/25, 7:28:57 PM] ~ Isha Sarvani: This is what we will be getting in our mails soon .
+[23/06/25, 7:29:35 PM] ~ Isha Sarvani: took it from venkat
+[23/06/25, 7:29:44 PM] ~ Isha Sarvani: Cos thier team already submitted thiers
+[23/06/25, 7:30:12 PM] ~ Isha Sarvani: okay when
+[23/06/25, 7:40:54 PM] Sambhavit Anand: tomorrow at 7?
+[23/06/25, 8:01:14 PM] ~ Isha Sarvani: okay done
+[24/06/25, 9:28:39 AM] ~ Isha Sarvani: Guys
+[24/06/25, 9:28:42 AM] ~ Isha Sarvani: We got the mail
+‎[24/06/25, 9:28:50 AM] ~ Isha Sarvani: ‎image omitted
+[24/06/25, 9:29:16 AM] ~ Aaron Fritz: yayyy
+[24/06/25, 9:29:27 AM] ~ Isha Sarvani: Did u guys get the mail too
+[24/06/25, 9:30:08 AM] ~ Aaron Fritz: not opening any mails
+[24/06/25, 9:30:12 AM] ~ Aaron Fritz: until college starts
+[24/06/25, 9:30:17 AM] ~ Isha Sarvani: 🔫
+[24/06/25, 9:30:20 AM] ~ Aaron Fritz: that's why we have you :)
+‎[24/06/25, 9:30:55 AM] ~ Isha Sarvani: Round 1_ Online Evaluation – Rules and Guidelines.pdf • ‎3 pages ‎<attached: 00000232-Round 1_ Online Evaluation – Rules and Guidelines.pdf>
+[24/06/25, 9:30:56 AM] ~ Isha Sarvani: the rule book is the same
+[24/06/25, 9:31:20 AM] ~ Isha Sarvani: show up at 7
+[24/06/25, 9:31:29 AM] ~ Isha Sarvani: With research papers and ideas
+[24/06/25, 9:31:42 AM] ~ Isha Sarvani: or previous year solutions
+[24/06/25, 9:31:48 AM] ~ Isha Sarvani: whatever works idk
+[24/06/25, 10:23:46 AM] ~ Aaron Fritz: nice
+[24/06/25, 6:41:04 PM] ~ Aaron Fritz: lowkey postpone to 10pm
+[24/06/25, 6:41:35 PM] ~ Isha Sarvani: 👍🏽
+[24/06/25, 6:42:45 PM] Sambhavit Anand: uh i have plans after 9:00
+[24/06/25, 6:42:57 PM] Sambhavit Anand: I can do 8
+[24/06/25, 6:43:08 PM] ~ Aaron Fritz: okay
+[24/06/25, 6:43:10 PM] ~ Isha Sarvani: okay
+[24/06/25, 7:53:46 PM] ~ Isha Sarvani: @919946169883 🔫
+[24/06/25, 7:54:08 PM] ~ Aaron Fritz: pew pew to you too :)
+[24/06/25, 7:54:25 PM] ~ Isha Sarvani: no you are ded u can't pew pew back
+[24/06/25, 7:54:41 PM] ~ Aaron Fritz: I pew pewed before you
+[24/06/25, 7:55:32 PM] ~ Isha Sarvani: evidence says otherwise
+[24/06/25, 7:55:46 PM] ~ Aaron Fritz: no
+[24/06/25, 7:55:49 PM] ~ Aaron Fritz: meeting in 5
+[24/06/25, 7:56:02 PM] ~ Isha Sarvani: who's sending link
+[24/06/25, 7:56:13 PM] ~ Aaron Fritz: you team leader
+[24/06/25, 7:56:35 PM] ~ Isha Sarvani: u severely misuse that word
+[24/06/25, 7:56:57 PM] ~ Aaron Fritz: no
+[24/06/25, 7:57:03 PM] ~ Aaron Fritz: only when it serves my purpose
+[24/06/25, 7:57:13 PM] ~ Isha Sarvani: https://meet.google.com/iwn-uvvm-dpx
+[24/06/25, 8:25:29 PM] ~ Isha Sarvani: Some nice resources sharing common ideas we can look into : https://github.com/jvishwa06/DeepTracersV0
+https://github.com/deep2universe/DeepFakeChrome
+[24/06/25, 8:26:12 PM] Sambhavit Anand: Found this website, we can also call its API : https://deepware.ai/
+[24/06/25, 8:26:26 PM] ~ Aaron Fritz: free?
+[24/06/25, 8:26:37 PM] Sambhavit Anand: https://scanner.deepware.ai/developer/
+[24/06/25, 8:26:44 PM] Sambhavit Anand: yeah i think so
+[24/06/25, 8:27:40 PM] Sambhavit Anand: nvm,i think you need to contact them for a key, so paid ‎<This message was edited>
+[24/06/25, 8:30:52 PM] ~ Isha Sarvani: we can do like browser recording/ screen recording enabled by the extension is that what i gather, we also need a decent website for the uploading stuff part too incase someone wants to check , also some additional features like reporting/blocking/ using Blockchain based concepts to indentify deepfakes 
+
+Another thing I wanted to add was we can use Blockchain to store hashes of authentic media so that any tampered or deepfake content can be detected by comparing it's hash against the block chain record
+[24/06/25, 8:31:59 PM] ~ Isha Sarvani: From what I heard last time anything that involves implementation of Blockchain gets into a different category in hacks , maybe easier for us to qualify ( used as an additional feature here tho) there are plenty of implementations online so let me know
+[24/06/25, 8:33:05 PM] ~ Isha Sarvani: @919946169883 @918779635194 please make like a mini report with some resources and implementation details regarding your ideas so we can filter and merge them before showing it to addy
+[24/06/25, 8:34:06 PM] Sambhavit Anand: By when is this to be completed?
+[24/06/25, 8:35:23 PM] ~ Isha Sarvani: preferably by Tommorow noon so we can give addy flexibility with time , then we can like go on a meet with him and then we'll have a day for us to make the final ppt
+[24/06/25, 8:36:28 PM] ~ Isha Sarvani: (bottomline 2-3 hours before the meet with addy cos we need to combine and come up with something solid)
+[25/06/25, 4:04:26 PM] ~ Isha Sarvani: @919946169883  when is aditreyo free ?
+[25/06/25, 4:04:44 PM] ~ Aaron Fritz: 8pm
+[25/06/25, 4:05:29 PM] ~ Isha Sarvani: theek send in your reports by 6-7pm  then
+[25/06/25, 4:11:58 PM] Sambhavit Anand: I have a meeting with madhav at 8
+[25/06/25, 4:12:11 PM] Sambhavit Anand: will ask him if he can shift
+[25/06/25, 6:43:31 PM] Sambhavit Anand: Hi, have shifted the meeting
+[25/06/25, 6:43:41 PM] Sambhavit Anand: 8 is good
+[25/06/25, 6:44:07 PM] ~ Aaron Fritz: yeah he's fine with anything post 8
+[25/06/25, 6:44:16 PM] ~ Aaron Fritz: if you want you can finish it up by 8 and jojn
+[25/06/25, 6:44:29 PM] Sambhavit Anand: yeah i think 8 is perfect
+[25/06/25, 7:05:05 PM] ~ Isha Sarvani: @919946169883  report ready hai?
+[25/06/25, 7:05:27 PM] ~ Aaron Fritz: dw I'll talk to him directly in the meeting
+[25/06/25, 7:05:53 PM] ~ Isha Sarvani: did he ask for a report ? And should we be working on one now ?
+[25/06/25, 7:06:02 PM] ~ Aaron Fritz: No
+[25/06/25, 7:06:18 PM] ~ Aaron Fritz: it's just a discussion
+[25/06/25, 7:06:21 PM] ~ Isha Sarvani: okay
+[25/06/25, 7:06:29 PM] ~ Aaron Fritz: yeah, don't bother with reports
+[25/06/25, 7:06:33 PM] ~ Isha Sarvani: @918779635194 yayy
+[25/06/25, 7:06:44 PM] ~ Aaron Fritz: but have a good idea on what you're gonna speak about
+[25/06/25, 7:06:48 PM] Sambhavit Anand: yeah
+[25/06/25, 7:06:53 PM] ~ Aaron Fritz: this isn't an official meet
+[25/06/25, 7:09:28 PM] ~ Isha Sarvani: I have no clue on how technical my idea is , so fill in with how you guys think the implementation should go
+[25/06/25, 7:10:51 PM] ~ Aaron Fritz: np
+[25/06/25, 7:10:54 PM] ~ Aaron Fritz: i handle
+[25/06/25, 7:11:01 PM] ~ Aaron Fritz: you add or correct
+[25/06/25, 7:13:13 PM] Sambhavit Anand: ysah just share the report/idea before the meet so i can try to read through it ‎<This message was edited>
+‎[25/06/25, 7:13:16 PM] ~ Isha Sarvani: Technical Implementation of Deepfake Detection Bro (1) (1).docx ‎<attached: 00000296-Technical Implementation of Deepfake Detection Bro (1) (1).docx>
+[25/06/25, 7:13:19 PM] ~ Isha Sarvani: ‎This message was deleted.
+[25/06/25, 7:13:26 PM] Sambhavit Anand: perfect thanks
+‎[25/06/25, 7:13:52 PM] ~ Isha Sarvani: Technical Implementation of Deepfake Detection Bro (1).docx ‎<attached: 00000299-Technical Implementation of Deepfake Detection Bro (1).docx>
+[25/06/25, 7:14:16 PM] ~ Isha Sarvani: It's messy , but I hope you guys get the general idea
+‎[25/06/25, 7:57:33 PM] ~ Isha Sarvani: Rough Implementation for Browser Based Extension .pdf ‎document omitted
+[25/06/25, 7:57:56 PM] ~ Aaron Fritz: isha
+[25/06/25, 7:57:59 PM] ~ Aaron Fritz: have you read
+[25/06/25, 7:58:01 PM] ~ Isha Sarvani: Like the title says , possible rough implementation
+[25/06/25, 7:58:03 PM] ~ Aaron Fritz: every line of your report
+[25/06/25, 7:58:08 PM] ~ Isha Sarvani: nope
+[25/06/25, 7:58:16 PM] ~ Aaron Fritz: this is why I said don't create a report
+[25/06/25, 7:58:18 PM] ~ Aaron Fritz: we don't need one
+[25/06/25, 7:58:21 PM] ~ Isha Sarvani: I did not understand a couple of bits
+[25/06/25, 7:58:23 PM] ~ Isha Sarvani: Im not
+[25/06/25, 7:58:28 PM] ~ Isha Sarvani: this is not for addy
+[25/06/25, 7:58:34 PM] ~ Aaron Fritz: then?
+[25/06/25, 7:58:56 PM] ~ Isha Sarvani: this is like a rough sketch so that we are clear in case he has some questions for us idk timepass
+[25/06/25, 7:59:04 PM] ~ Aaron Fritz: send gmeet link
+[25/06/25, 7:59:33 PM] ~ Aaron Fritz: lol, if you don't know where things are in your own report how will you refer when questioned about something
+[25/06/25, 7:59:43 PM] ~ Aaron Fritz: only talk about what you know, clear every doubt you have
+[25/06/25, 7:59:44 PM] ~ Isha Sarvani: https://meet.google.com/ebn-htqz-nho
+[25/06/25, 7:59:47 PM] ~ Aaron Fritz: with adri
+[25/06/25, 8:00:02 PM] ~ Isha Sarvani: you talk
+[25/06/25, 8:00:09 PM] ~ Isha Sarvani: imma spectate
+[25/06/25, 8:00:25 PM] ~ Isha Sarvani: send the meet link to addy
+[25/06/25, 8:09:39 PM] ~ Isha Sarvani: ‎~ Isha Sarvani pinned a message
+[25/06/25, 8:12:30 PM] ~ Aaron Fritz: damn isha ftw
+[25/06/25, 8:12:36 PM] Sambhavit Anand: W
+[25/06/25, 8:13:58 PM] ~ Aaron Fritz: browser extension with local hosted file upload option
+deepfake classification reasoning
+[25/06/25, 8:17:26 PM] ~ Isha Sarvani: technical diagrams , less nonsense, feasible, every detail except the code , proper info , content of ppt , justify things, Unique selling point
+[25/06/25, 8:19:53 PM] ~ Isha Sarvani: explainable - usp
+[25/06/25, 8:20:04 PM] Sambhavit Anand: tech stack
+[25/06/25, 8:20:06 PM] ~ Isha Sarvani: decentralisation
+[25/06/25, 8:21:05 PM] ~ Isha Sarvani: should we go on a meet now ?
+[25/06/25, 8:21:09 PM] ~ Aaron Fritz: decentralised ledger of catalogued classified deepfakes and misinformation
+[25/06/25, 8:21:39 PM] ~ Aaron Fritz: you tell me team leader
+[25/06/25, 8:21:46 PM] ~ Aaron Fritz: or you could just delegate work for all 3 of us
+[25/06/25, 8:21:52 PM] ~ Aaron Fritz: and we'll do our part
+[25/06/25, 8:22:09 PM] ~ Isha Sarvani: come meet , it'll be easier over call for us to discuss
+[25/06/25, 8:22:17 PM] ~ Isha Sarvani: @918779635194
+[25/06/25, 8:22:24 PM] ~ Isha Sarvani: @919946169883
+[25/06/25, 8:22:29 PM] ~ Aaron Fritz: I think sambhavit has another meet with madhav
+[25/06/25, 8:22:38 PM] ~ Isha Sarvani: okay
+[25/06/25, 8:22:39 PM] ~ Aaron Fritz: im online, i'll come when he does
+[25/06/25, 8:22:46 PM] ~ Isha Sarvani: gimme a call or something
+[25/06/25, 8:22:55 PM] ~ Isha Sarvani: We finalise the work tonight
+[25/06/25, 8:23:04 PM] ~ Aaron Fritz: okay
+[25/06/25, 8:26:05 PM] Sambhavit Anand: is after 10 fine?
+[25/06/25, 8:26:17 PM] ~ Aaron Fritz: yeah
+[25/06/25, 8:26:18 PM] ~ Isha Sarvani: okay
+[25/06/25, 8:26:24 PM] ~ Aaron Fritz: and we'll finish work before 3pm
+[25/06/25, 8:26:53 PM] ~ Isha Sarvani: 12-1 pm what if some changes are major
+[25/06/25, 8:27:16 PM] ~ Aaron Fritz: okay
+[25/06/25, 8:27:18 PM] ~ Aaron Fritz: 1 pm
+[25/06/25, 8:27:22 PM] ~ Aaron Fritz: I'll wake up early
+[25/06/25, 8:27:48 PM] ~ Isha Sarvani: sakrifice
+[25/06/25, 8:31:05 PM] Sambhavit Anand: cool
+[25/06/25, 9:53:39 PM] ~ Isha Sarvani: https://meet.google.com/hob-vaai-vme
+[25/06/25, 9:54:28 PM] ~ Isha Sarvani: @919946169883 @918779635194  join if yall free
+[25/06/25, 9:54:40 PM] ~ Aaron Fritz: 10pm pls
+[25/06/25, 9:54:47 PM] ~ Aaron Fritz: doing something else rn
+[25/06/25, 9:54:57 PM] ~ Isha Sarvani: yea 10 pm
+[25/06/25, 9:55:03 PM] ~ Isha Sarvani: Im just bored
+[25/06/25, 9:58:58 PM] Sambhavit Anand: ok come
+[25/06/25, 10:03:54 PM] ~ Aaron Fritz: smol tech issue guys
+[25/06/25, 10:04:18 PM] ~ Isha Sarvani: oki
+[25/06/25, 10:13:44 PM] ~ Isha Sarvani: https://github.com/jvishwa06/DeepTracersV0/tree/main
+[25/06/25, 10:14:01 PM] ~ Isha Sarvani: https://github.com/deep2universe/DeepFakeChrome
+[25/06/25, 10:19:28 PM] ~ Isha Sarvani: https://github.com/Divya-sh47/Deepfake-Detection-Browser-Extension
+[25/06/25, 10:39:41 PM] ~ Isha Sarvani: https://www.linkedin.com/feed/update/urn:li:activity:7332488059868848128/
+[25/06/25, 10:42:38 PM] ~ Isha Sarvani: GUYS
+[25/06/25, 10:42:52 PM] ~ Isha Sarvani: i forgot to include a very important repo
+[25/06/25, 10:43:12 PM] ~ Isha Sarvani: tHEse guys won penn uni hack
+[25/06/25, 10:43:40 PM] ~ Isha Sarvani: @919946169883 @918779635194 https://blog.seas.upenn.edu/deepfake-detector-wins-pennapps-xx-caabf6a5ee50/
+[25/06/25, 10:43:47 PM] ~ Isha Sarvani: Please go through that
+[25/06/25, 10:44:35 PM] ~ Isha Sarvani: This also an exact copy of what we want to build , here is their repo : https://github.com/Daniel8757/PennAppsXX
+[25/06/25, 10:44:48 PM] ~ Isha Sarvani: @918779635194 @919946169883  check it out pls
+[25/06/25, 10:45:21 PM] ~ Isha Sarvani: Its a winning hack project and everything is ther so yea
+[25/06/25, 10:54:59 PM] ~ Isha Sarvani: - browser extension 
+- deepfake ai (yt,ig,twitter,articles)
+- A decentralized blockchain-based system that hashes and timestamps image/video uploads to make them tamper-evident and verifiable against deepfakes via website 
+- being able to report a particular deepfake to the respective platform via extension 
+- a linked website in the extension , where a person can upload images , articles , video locally for deepfake detection 
+- links / steps for a person to report to cybercrime authorities of respective coutries incase of their deepfake videos found online on website ‎<This message was edited>
+[25/06/25, 11:06:39 PM] ~ Isha Sarvani: What I need you guys to do is an Implementation plan , finalizing exactly how we will go about things , code snippets , names of all the processes / ideas for flowcharts related to implementation , details of the AI models and datasets being used as well as research papers / repos if found , if possible screenshots of the models working , the front end and literally anything that can prove that the infrastructure to execute it is already in place
+[26/06/25, 10:52:58 AM] ~ Isha Sarvani: I need name ideas for our website/ extension
+[26/06/25, 10:55:27 AM] ~ Aaron Fritz: StopTheFake
+[26/06/25, 10:55:48 AM] ~ Isha Sarvani: sounds more like a protest slogan
+[26/06/25, 10:55:56 AM] ~ Isha Sarvani: but okay keep it coming
+[26/06/25, 10:56:32 AM] ~ Isha Sarvani: deep-truth ?
+[26/06/25, 10:57:37 AM] ~ Aaron Fritz: guys
+[26/06/25, 10:57:50 AM] ~ Isha Sarvani: batao
+[26/06/25, 10:57:55 AM] ~ Aaron Fritz: after countless milliseconds of searching and pillaging through thr github
+[26/06/25, 10:57:58 AM] ~ Aaron Fritz: I have found
+[26/06/25, 10:58:02 AM] ~ Aaron Fritz: the pretrained model
+‎[26/06/25, 10:58:06 AM] ~ Aaron Fritz: ‎<attached: 00000387-PHOTO-2025-06-26-10-58-07.jpg>
+[26/06/25, 10:58:21 AM] ~ Aaron Fritz: yay
+[26/06/25, 10:58:39 AM] ~ Isha Sarvani: amazing
+[26/06/25, 10:58:53 AM] ~ Isha Sarvani: Also please go through the template ek baar
+[26/06/25, 10:59:12 AM] ~ Isha Sarvani: We have only 2-3 slides to fit all ideas so send me a rough pipeline of all
+[26/06/25, 10:59:26 AM] ~ Isha Sarvani: As in exactly how the preteqined model is working
+[26/06/25, 10:59:28 AM] ~ Isha Sarvani: Which is nice
+[26/06/25, 10:59:36 AM] ~ Isha Sarvani: Can u look in the browser extension part
+[26/06/25, 10:59:43 AM] ~ Isha Sarvani: savoir fr
+[26/06/25, 11:00:51 AM] ~ Aaron Fritz: okay
+[26/06/25, 11:38:06 AM] ~ Aaron Fritz: guys
+[26/06/25, 11:38:09 AM] ~ Aaron Fritz: even better news
+[26/06/25, 11:38:14 AM] ~ Aaron Fritz: pip install deeptracer
+[26/06/25, 11:38:19 AM] ~ Isha Sarvani: Insane
+[26/06/25, 11:38:23 AM] ~ Aaron Fritz: we really should have read the fucking readme file
+[26/06/25, 11:38:26 AM] ~ Aaron Fritz: like seriously
+[26/06/25, 11:38:30 AM] ~ Aaron Fritz: that shit is so well documented
+[26/06/25, 11:40:44 AM] ~ Aaron Fritz: isha do me a favour
+[26/06/25, 11:40:51 AM] ~ Aaron Fritz: get me a few image and video samples
+[26/06/25, 11:41:01 AM] ~ Aaron Fritz: which are deepfake and not deepfake
+[26/06/25, 11:41:05 AM] ~ Aaron Fritz: send them here
+[26/06/25, 11:41:08 AM] ~ Aaron Fritz: i'll create code to test
+[26/06/25, 11:41:33 AM] ~ Isha Sarvani: I'll try to buy listen
+[26/06/25, 11:41:39 AM] ~ Isha Sarvani: Ek baar go through the template
+[26/06/25, 11:41:44 AM] ~ Isha Sarvani: See if we have enough space
+[26/06/25, 11:41:46 AM] ~ Aaron Fritz: send canva link
+[26/06/25, 11:41:57 AM] ~ Isha Sarvani: It's ther ein the pdf
+[26/06/25, 11:42:08 AM] ~ Aaron Fritz: I know
+[26/06/25, 11:42:16 AM] ~ Aaron Fritz: i don't wanna open it :)
+[26/06/25, 11:42:31 AM] ~ Aaron Fritz: send me any video sample now quick
+[26/06/25, 11:44:42 AM] ~ Isha Sarvani: https://www.youtube.com/playlist?list=PLxgMOEESA8vgmkkQM_jsD94AZfH9Ve2Vd
+[26/06/25, 11:44:51 AM] ~ Isha Sarvani: this has a bunch of deepfake sampes
+[26/06/25, 11:54:47 AM] ~ Aaron Fritz: streamlit
+[26/06/25, 12:18:19 PM] ~ Isha Sarvani: features: allow image and video uplaods through a portal , image and video cpatures through theectension , constant monitoring of the scrren , soft ware is airgap , cuts downs bandwidth , model trianed is so leightweigth that it runs locally , streamlit for the local ui ,
+[26/06/25, 1:41:15 PM] Sambhavit Anand: Hi
+[26/06/25, 1:41:24 PM] Sambhavit Anand: Sorry, just got a break now
+[26/06/25, 1:41:43 PM] Sambhavit Anand: @919946169883 @919063011127 Anything that needs to be done, please lmk
+[26/06/25, 1:42:04 PM] ~ Isha Sarvani: okay can you call up aaron talk about the technical implementation of the browser extension and everything
+[26/06/25, 1:42:10 PM] ~ Isha Sarvani: I need stuff on it
+[26/06/25, 1:42:13 PM] ~ Isha Sarvani: And the tech stack
+[26/06/25, 1:42:28 PM] Sambhavit Anand: is there a rought ppt outline?
+[26/06/25, 1:43:54 PM] ~ Isha Sarvani: Yes there is a template given
+[26/06/25, 1:44:07 PM] ~ Isha Sarvani: And technical implementation is one of the slides that we need to fill content in
+[26/06/25, 1:44:12 PM] Sambhavit Anand: Ok got it
+[26/06/25, 1:44:15 PM] ~ Isha Sarvani: I'm taking care of the rest of the slides
+[26/06/25, 2:00:23 PM] ~ Isha Sarvani: @919946169883 @918779635194 are you guys at it ?
+[26/06/25, 2:26:15 PM] ~ Isha Sarvani: Come up with the implementation, plan and technical approach and give me content
+[26/06/25, 2:26:19 PM] ~ Isha Sarvani: Both of you
+[26/06/25, 2:26:24 PM] Sambhavit Anand: ok
+[26/06/25, 2:26:38 PM] ~ Aaron Fritz: sambhavith take care of how to make browser extension
+[26/06/25, 2:26:41 PM] ~ Isha Sarvani: Please try to get it done by 3
+[26/06/25, 2:27:13 PM] ~ Aaron Fritz: I've alr given you info
+[26/06/25, 2:27:19 PM] ~ Isha Sarvani: I need content and screenshots if any available
+[26/06/25, 2:27:20 PM] ~ Aaron Fritz: on how to everything else
+[26/06/25, 2:27:55 PM] ~ Aaron Fritz: don't mention deeptracer anywhere
+[26/06/25, 2:28:01 PM] ~ Isha Sarvani: aaron I asked you to give me something written a verbal 3 line statment is not enough to cover 3 slides
+[26/06/25, 2:28:08 PM] ~ Aaron Fritz: just say opensource state of the art pretrained deepfake model
+[26/06/25, 2:28:18 PM] ~ Isha Sarvani: Yes I mentioned that
+[26/06/25, 2:31:36 PM] Sambhavit Anand: ok we can use `CRXJ` but then we need to do it in react
+[26/06/25, 2:32:31 PM] ~ Aaron Fritz: we use the deeptracer pretrained opensource to make deepfake detection
+we use streamlit deck for the locally hosted UI to make uploads of images and photos
+the browser extension will have the following features
+capable of constantly monitoring your browser content detecting deepfakes while you are online
+capable of detecting deepfakes on command, meaning you can choose when to scan a particular content, image or video whether deepfake or not
+the browser extension will also have the capability to launch the locally hosted deepfake detector site where client can upload local files, maybe even social media links
+[26/06/25, 2:32:34 PM] ~ Isha Sarvani: I need like a text doc or some shit with all that combined whatever makes sense to y'all so I can put it in the pt
+[26/06/25, 2:32:52 PM] ~ Aaron Fritz: this is pretty much what i have on the deepfakes so far
+[26/06/25, 2:32:58 PM] Sambhavit Anand: ok so chrome extension mein
+[26/06/25, 2:33:02 PM] ~ Aaron Fritz: yeah
+[26/06/25, 2:33:15 PM] ~ Isha Sarvani: we need more tech details go through the repos man
+[26/06/25, 2:33:17 PM] Sambhavit Anand: there is a default_poput field
+[26/06/25, 2:33:22 PM] ~ Isha Sarvani: Perplexity and verify and send
+[26/06/25, 2:33:34 PM] Sambhavit Anand: which is basically the first thing you see when you click it
+[26/06/25, 2:33:43 PM] Sambhavit Anand: so the page that will be a .html
+[26/06/25, 2:33:51 PM] Sambhavit Anand: that can be used for uploading
+[26/06/25, 2:33:58 PM] ~ Aaron Fritz: now for misinformation
+we can do an on command web scrape of whatever article or topic client is reading and connect to an llm which can verify through online searches
+[26/06/25, 2:37:51 PM] ~ Aaron Fritz: locally hosted site: streamlit
+model specs: find from repo
+LLM used: Groq Playground endpoints, can scale to use better paid models
+browser extension tech: sambhavit
+Core langs used from my end: python for backend, streamlit python for frontend locally hosted shit, which will also have the llm btw
+Explainabilty: honestly not much clue, but for deepfakes we can detect where exactly is the media faked and for misinformation we can make the llm generate sources and reasoning
+[26/06/25, 2:40:39 PM] Sambhavit Anand: Browser Extension Tech:
+
+Manifest V3 (Chrome Extension standard)
+
+JavaScript (ES6) for logic and DOM interaction
+
+Content Scripts: Injected into webpages to monitor images/videos/text
+
+Background Service Worker: Handles API calls to local detection server and message routing
+
+Popup UI: Simple HTML/CSS/JS interface for user interaction (e.g., scan on demand, open Streamlit)
+
+chrome.runtime & chrome.scripting APIs: For communication between extension components and injection
+
+Event Listeners: To track DOM changes, media loading, and user triggers
+[26/06/25, 2:40:59 PM] Sambhavit Anand: but i hardly know JS so I will need some help
+[26/06/25, 2:43:47 PM] ~ Isha Sarvani: can i get more presentable and copy pastable form for the teachnical impleamentation and techstack
+[26/06/25, 2:44:21 PM] ~ Isha Sarvani: also both of you figure out how to merge that browser extension witht he rest of aarons report and like give a fianl one i can copy paste there
+[26/06/25, 2:44:27 PM] Sambhavit Anand: Like do you want me to explain each part?
+[26/06/25, 2:46:56 PM] ~ Isha Sarvani: not the texhstack, the techstack is fine , but i need the complete techstakc including the models and stuff
+[26/06/25, 2:47:19 PM] ~ Aaron Fritz: https://chatgpt.com/share/685d101a-7f8c-800e-9ada-2fa3490c3e54
+[26/06/25, 2:47:22 PM] ~ Isha Sarvani: somehow merge your browser extension detials with aarons tech plan and stuff
+[26/06/25, 2:47:31 PM] ~ Aaron Fritz: i alr kinda did
+[26/06/25, 2:47:40 PM] ~ Aaron Fritz: this is the most comprehensive report i can give you
+[26/06/25, 2:47:40 PM] ~ Isha Sarvani: okay
+[26/06/25, 2:47:43 PM] ~ Aaron Fritz: there are two sections
+[26/06/25, 2:47:49 PM] ~ Aaron Fritz: one with general details, the flair
+[26/06/25, 2:47:53 PM] ~ Aaron Fritz: and the second is pure tech
+[26/06/25, 2:48:09 PM] ~ Aaron Fritz: lmk if anything is missing
+[26/06/25, 2:50:58 PM] ~ Aaron Fritz: just verify the browser tech stack
+[26/06/25, 2:53:46 PM] ~ Isha Sarvani: can somone et me know if we can add more pages
+[26/06/25, 3:17:58 PM] ~ Aaron Fritz: sorry?
+[26/06/25, 3:18:04 PM] ~ Aaron Fritz: more pages to what
+[26/06/25, 3:18:07 PM] ~ Aaron Fritz: you want more content?
+[26/06/25, 3:18:24 PM] ~ Isha Sarvani: no it was regarding the ppt , i had s very descritpibve solution
+[26/06/25, 3:22:33 PM] ~ Isha Sarvani: can you give me copy pastable content for Implementation and technical detials seperately , Im confused between both of them @919946169883 @918779635194 , i went through the chatgpt thingy but it looks too ai and doesnt have a seperate implementation,plan and technical section
+[26/06/25, 3:31:59 PM] ~ Aaron Fritz: isha
+[26/06/25, 3:32:09 PM] ~ Aaron Fritz: you gotta read and understand
+[26/06/25, 3:32:13 PM] ~ Aaron Fritz: you're part of the team too
+[26/06/25, 3:32:16 PM] Sambhavit Anand: Just change the browser extension stuff in @919946169883 s, report
+[26/06/25, 3:33:15 PM] ~ Isha Sarvani: Im sorry Im making the ppt, the diagrams ,collected the resources and , did like rest of the slides of the ppt  too I just aked
+[26/06/25, 3:33:29 PM] Sambhavit Anand: to this, it's pretty much all there is to it
+[26/06/25, 3:33:36 PM] ~ Isha Sarvani: i just asked you to give a technical implementation
+[26/06/25, 3:33:52 PM] ~ Isha Sarvani: anyway i used your gpt thing and got another bullet point response from it
+[26/06/25, 3:34:01 PM] ~ Isha Sarvani: im sending the ppt over in a few minutes
+[26/06/25, 3:34:12 PM] ~ Isha Sarvani: let me know if anychanges are to be made
+[26/06/25, 3:40:33 PM] ~ Aaron Fritz: send the ppt whenever
+[26/06/25, 3:41:06 PM] ~ Isha Sarvani: I'm trying to find the collaboration option, I think I'll do Google slides sending
+[26/06/25, 3:41:17 PM] ~ Aaron Fritz: okay
+‎[26/06/25, 3:44:56 PM] ~ Isha Sarvani: Hacksky.pptx ‎document omitted
+[26/06/25, 3:45:01 PM] ~ Isha Sarvani: alot of chnagesa re to be made
+[26/06/25, 3:45:16 PM] ~ Isha Sarvani: can one of you figure out how to turn on the collaboration mode
+[26/06/25, 3:46:21 PM] Sambhavit Anand: ok can we get on a call and finalise
+‎[26/06/25, 3:46:43 PM] ~ Aaron Fritz: ‎image omitted
+[26/06/25, 3:46:43 PM] ~ Aaron Fritz: love this
+‎[26/06/25, 3:47:32 PM] ~ Aaron Fritz: ‎image omitted
+[26/06/25, 3:47:49 PM] Sambhavit Anand: see thats why i said
+[26/06/25, 3:47:56 PM] Sambhavit Anand: I also have some doubts about the ppt
+[26/06/25, 3:47:59 PM] ~ Isha Sarvani: it's basically the glorified report option
+[26/06/25, 3:48:11 PM] ~ Isha Sarvani: yeah let's get on the call
+[26/06/25, 3:48:29 PM] ~ Aaron Fritz: umm, blockchain
+[26/06/25, 3:48:31 PM] ~ Isha Sarvani: https://learnermanipal-my.sharepoint.com/:p:/g/personal/isha_mitmpl2024_learner_manipal_edu/EbxHQvCmQgtHrshCCUBQI3ABqPJcPnKi7fVkf7c-80q74w?e=AT6Kb7
+[26/06/25, 3:48:31 PM] ~ Aaron Fritz: you've mentioned
+[26/06/25, 3:48:43 PM] ~ Aaron Fritz: how do we implement
+[26/06/25, 3:48:57 PM] Sambhavit Anand: https://meet.google.com/cht-zuan-ofd
+[26/06/25, 3:49:12 PM] Sambhavit Anand: yeah that was my issue as well
+[26/06/25, 3:51:57 PM] Sambhavit Anand: @919946169883 ?
+‎[26/06/25, 4:11:27 PM] ~ Isha Sarvani: ‎image omitted
+‎[26/06/25, 4:14:53 PM] Sambhavit Anand: ‎image omitted
+[26/06/25, 4:19:34 PM] Sambhavit Anand: add this
+‎[26/06/25, 4:41:41 PM] ~ Isha Sarvani: ‎image omitted
+[26/06/25, 4:45:41 PM] ~ Aaron Fritz: The current system establishes a foundational, locally hosted platform for Deepfake and Misinformation Detection. As the project evolves, the following enhancements can significantly improve its scalability, accuracy, and usability:
+
+🌐 Cloud Deployment & Scalability
+
+Containerize backend and model services using Docker.
+
+Host on AWS/GCP/Azure to enable cross-device, multi-user accessibility.
+
+Introduce auto-scaling for high-load scenarios (e.g., bulk verification or multiple extension users).
+
+🔒 Authentication & Access Control
+
+Implement role-based access for client and admin operations.
+
+Add support for API keys or OAuth2 to secure the endpoints.
+
+Allow personalized user history (e.g., "My past scans").
+
+🤖 LLM Augmentation for Misinformation
+
+Integrate retrieval-augmented generation (RAG) pipelines using vector databases (e.g., Weaviate, FAISS) for verifiable real-time search.
+
+Let users “ask follow-up questions” about misinformation claims.
+
+🧠 Explainable AI (XAI)
+
+Integrate Grad-CAM or similar tools into DeepTracer to visualize fake regions for videos and images.
+
+For misinformation, highlight fact-checked sentence spans and cited passages with source links.
+
+🎥 Real-Time Browser Media Scanning
+
+Upgrade browser extension with WebAssembly-based detection (e.g., for TensorFlow.js compatible models).
+
+Enable background tab scanning of TikTok, Instagram Reels, or YouTube shorts.
+
+📊 Analytics Dashboard
+
+Create admin-level Streamlit dashboard showing:
+
+Detection volume over time
+
+Common misinformation categories
+
+Most flagged social platforms or domains
+
+🧩 Multi-Model Support
+
+Allow user to switch between DeepTracer, FaceForensics, or custom-trained CNNs.
+
+Let LLM routing select appropriate verifier models based on domain (e.g., medical misinformation → specialized model).
+
+🛡️ Adversarial Robustness & Continuous Fine-Tuning
+
+Continuously fine-tune the Deepfake model on new adversarial samples.
+
+Implement prompt injection and adversarial robustness filters for the LLM.
+
+🌍 Language & Region Support
+
+Add multilingual support in both UI and LLM verification.
+
+Tailor misinformation verification to region-specific news sources and regulations.
+
+🧪 Open API for Developers
+
+Offer a documented API for third-party apps to use our detection services.
+
+Enable WhatsApp/Telegram bots to send media for real-time scanning.
+
+—
+
+Would you like this section exported into your main report, or do you want a design/architecture slide that visually represents this roadmap?
+[26/06/25, 4:47:47 PM] ~ Aaron Fritz: 🌐 Cloud Deployment & Scalability
+
+Containerize backend and model services using Docker.
+
+Host on AWS/GCP/Azure to enable cross-device, multi-user accessibility.
+
+Introduce auto-scaling for high-load scenarios (e.g., bulk verification or multiple extension users).
+
+🔒 Authentication & Access Control
+
+Implement role-based access for client and admin operations.
+
+Add support for API keys or OAuth2 to secure the endpoints.
+
+Allow personalized user history (e.g., "My past scans").
+
+🤖 LLM Augmentation for Misinformation
+
+Integrate retrieval-augmented generation (RAG) pipelines using vector databases (e.g., Weaviate, FAISS) for verifiable real-time search.
+
+Let users “ask follow-up questions” about misinformation claims.
+
+📊 Analytics Dashboard
+
+Create admin-level Streamlit dashboard showing:
+
+Detection volume over time
+
+Common misinformation categories
+
+Most flagged social platforms or domains
+
+🧩 Multi-Model Support
+
+Allow users to switch between DeepTracer, FaceForensics, or custom-trained CNNs.
+
+Let LLM routing select appropriate verifier models based on domain (e.g., medical misinformation → specialized model).
+
+🛡️ Adversarial Robustness & Continuous Fine-Tuning
+
+Continuously fine-tune the Deepfake model on new adversarial samples.
+
+Implement prompt injection and adversarial robustness filters for the LLM.
+
+🌍 Language & Region Support
+
+Add multilingual support in both UI and LLM verification.
+
+Tailor misinformation verification to region-specific news sources and regulations.
+[26/06/25, 4:57:15 PM] ~ Isha Sarvani: User Uploads Media
+  ↓
+Compute SHA-256 Hash of File
+  ↓
+Check Hash on Blockchain Ledger (Polygon Testnet)
+  ↓
+IF Hash Found → Flag as Previously Verified
+      ↘️
+  ELSE → Proceed to Preprocessing
+        ↓
+  Preprocess Image / Extract Frames (OpenCV)
+        ↓
+  Pass Media to PyTorch Deepfake Detection Model
+        ↓
+  Model Outputs Prediction & Confidence
+        ↓
+  Aggregate Frame Results (if video)
+        ↓
+  Return Final JSON Result to Frontend
+        ↓
+  Display in UI: Verdict + Confidence + Blockchain Status
+[26/06/25, 5:19:23 PM] ~ Isha Sarvani: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepfake Detection System Flowchart</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #e3f2fd, #f0f4f8);
+            font-family: 'Courier New', 'Monaco', 'Consolas', monospace;
+            image-rendering: pixelated;
+            image-rendering: -moz-crisp-edges;
+            image-rendering: crisp-edges;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .flowchart {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            max-width: 800px;
+            padding: 30px;
+            background: #f5f5f5;
+            border-radius: 4px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            border: 3px solid #333;
+        }
+        
+        .step {
+            background: linear-gradient(135deg, #2196F3, #1976D2);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 4px;
+            text-align: center;
+            min-width: 300px;
+            box-shadow: 0 4px 8px rgba(33, 150, 243, 0.3);
+            transition: all 0.3s ease;
+            position: relative;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border: 2px solid #1976D2;
+        }
+        
+        .step:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(33, 150, 243, 0.4);
+        }
+        
+        .decision {
+            background: linear-gradient(135deg, #FF7043, #D84315);
+            clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+            width: 200px;
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 0;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border: 3px solid #D84315;
+        }
+        
+        .decision:hover {
+            transform: translateY(-2px) scale(1.02);
+        }
+        
+        .branch-left {
+            background: linear-gradient(135deg, #81C784, #4CAF50);
+            border: 2px solid #2E7D32;
+        }
+        
+        .branch-right {
+            background: linear-gradient(135deg, #64B5F6, #1976D2);
+            border: 2px solid #1976D2;
+        }
+        
+        .final {
+            background: linear-gradient(135deg, #9C27B0, #6A1B9A);
+            font-weight: bold;
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border: 2px solid #6A1B9A;
+        }
+        
+        .arrow {
+            width: 0;
+            height: 0;
+            border-left: 15px solid transparent;
+            border-right: 15px solid transparent;
+            border-top: 20px solid #2196F3;
+            margin: 5px 0;
+            animation: pulse 2s infinite;
+        }
+        
+        .arrow-branch {
+            border-top-color: #81C784;
+        }
+        
+        .branch-container {
+            display: flex;
+            gap: 40px;
+            margin: 20px 0;
+            align-items: flex-start;
+        }
+        
+        .branch {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .branch-label {
+            font-size: 12px;
+            font-weight: bold;
+            color: #555;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 5px 10px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+        }
+        
+        .merge-arrow {
+            width: 60px;
+            height: 2px;
+            background: #2196F3;
+            position: relative;
+            margin: 20px 0;
+        }
+        
+        .merge-arrow::after {
+            content: '';
+            position: absolute;
+            right: -5px;
+            top: -5px;
+            width: 0;
+            height: 0;
+            border-left: 10px solid #2196F3;
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0.7; }
+            50% { opacity: 1; }
+        }
+        
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #1976D2;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .tech-badge {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.8);
+            color: #00FF00;
+            padding: 3px 8px;
+            border-radius: 0;
+            font-size: 10px;
+            font-weight: bold;
+            margin: 5px 2px 0 2px;
+            border: 1px solid #00FF00;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flowchart">
+        <div class="title">Deepfake Detection System</div>
+        
+        <div class="step">
+            User Uploads Media
+        </div>
+        <div class="arrow"></div>
+        
+        <div class="step">
+            Compute SHA-256 Hash of File
+            <div class="tech-badge">Cryptographic Hashing</div>
+        </div>
+        <div class="arrow"></div>
+        
+        <div class="step">
+            Check Hash on Blockchain Ledger
+            <div class="tech-badge">Polygon Testnet</div>
+        </div>
+        <div class="arrow"></div>
+        
+        <div class="decision">
+            <div>Hash Found?</div>
+        </div>
+        
+        <div class="branch-container">
+            <div class="branch">
+                <div class="branch-label">IF Found</div>
+                <div class="arrow arrow-branch"></div>
+                <div class="step branch-left">
+                    Flag as Previously Verified
+                </div>
+            </div>
+            
+            <div class="branch">
+                <div class="branch-label">ELSE</div>
+                <div class="arrow"></div>
+                <div class="step branch-right">
+                    Proceed to Preprocessing
+                </div>
+                <div class="arrow"></div>
+                
+                <div class="step branch-right">
+                    Preprocess Image / Extract Frames
+                    <div class="tech-badge">OpenCV</div>
+                </div>
+                <div class="arrow"></div>
+                
+                <div class="step branch-right">
+                    Pass Media to PyTorch Deepfake Detection Model
+                    <div class="tech-badge">PyTorch</div><div class="tech-badge">AI/ML</div>
+                </div>
+                <div class="arrow"></div>
+                
+                <div class="step branch-right">
+                    Model Outputs Prediction & Confidence
+                </div>
+                <div class="arrow"></div>
+                
+                <div class="step branch-right">
+                    Aggregate Frame Results (if video)
+                </div>
+            </div>
+        </div>
+        
+        <div class="merge-arrow"></div>
+        
+        <div class="step">
+            Return Final JSON Result to Frontend
+            <div class="tech-badge">JSON API</div>
+        </div>
+        <div class="arrow"></div>
+        
+        <div class="step final">
+            Display in UI: Verdict + Confidence + Blockchain Status
+            <div class="tech-badge">User Interface</div>
+        </div>
+    </div>
+</body>
+</html>
+‎[26/06/25, 5:28:37 PM] ~ Aaron Fritz: graphviz.svg ‎document omitted
+[26/06/25, 5:30:24 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/javascript-logo.html
+[26/06/25, 5:30:38 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/python-logo.html
+[26/06/25, 5:32:09 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/blockchain-logo-links.html
+[26/06/25, 5:32:38 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/artificial-intelligence-logo.html
+[26/06/25, 5:35:29 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/css-logo.html
+[26/06/25, 5:35:54 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/sql-logo.html
+[26/06/25, 5:36:17 PM] ~ Aaron Fritz: https://www.cleanpng.com/free/visual-studio-code.html
+‎[26/06/25, 5:45:32 PM] ~ Aaron Fritz: ‎<attached: 00000528-PHOTO-2025-06-26-17-45-33.jpg>
+[26/06/25, 5:49:28 PM] ~ Isha Sarvani: you said some accuracy percentage
+[26/06/25, 5:49:34 PM] ~ Isha Sarvani: AARON
+[26/06/25, 5:49:39 PM] ~ Aaron Fritz: what
+[26/06/25, 5:49:53 PM] ~ Isha Sarvani: I Want the output too
+[26/06/25, 5:50:05 PM] ~ Isha Sarvani: like detected false or stuff like that
+[26/06/25, 5:50:22 PM] ~ Isha Sarvani: also what should i title the picture
+‎[26/06/25, 5:50:28 PM] ~ Aaron Fritz: ‎<attached: 00000535-PHOTO-2025-06-26-17-50-29.jpg>
+[26/06/25, 6:00:28 PM] ~ Isha Sarvani: Uploaded
+[26/06/25, 6:00:34 PM] ~ Isha Sarvani: Apparently we needed an abstract too
+[26/06/25, 6:00:52 PM] ~ Isha Sarvani: I just put our intro in it
+‎[26/06/25, 6:02:35 PM] ~ Isha Sarvani: ‎<attached: 00000539-PHOTO-2025-06-26-18-02-36.jpg>
+[26/06/25, 6:11:58 PM] ~ Isha Sarvani: you guys were nice 💗
+‎[26/06/25, 6:22:28 PM] ~ Isha Sarvani: Hacksky (1).pdf • ‎10 pages ‎<attached: 00000541-Hacksky (1).pdf>
+‎[26/06/25, 6:22:28 PM] ~ Isha Sarvani: Hacksky -niterangers.pptx ‎<attached: 00000542-Hacksky -niterangers.pptx>
+[26/06/25, 7:05:16 PM] ~ Aaron Fritz: when results
+[26/06/25, 8:15:56 PM] ~ Isha Sarvani: no clue ‎<This message was edited>
+[26/06/25, 8:24:50 PM] ~ Aaron Fritz: great
+[26/06/25, 8:24:56 PM] ~ Aaron Fritz: u think we'll get selected?
+[26/06/25, 8:25:14 PM] Sambhavit Anand: fuck yes
+[26/06/25, 8:25:32 PM] ~ Aaron Fritz: lol, quite confident
+[26/06/25, 8:25:48 PM] Sambhavit Anand: no because i know someone who’s doing this
+[26/06/25, 8:25:54 PM] Sambhavit Anand: and i saw their presentation
+[26/06/25, 8:43:19 PM] ~ Isha Sarvani: what was their idea on
+[26/06/25, 8:43:23 PM] ~ Isha Sarvani: tell tell
+[26/06/25, 8:56:04 PM] Sambhavit Anand: yeah no they also did our p.s, completely shit
+[26/06/25, 8:56:16 PM] Sambhavit Anand: let me see if he’ll forward it to me
+[05/07/25, 8:53:19 PM] ~ Isha Sarvani: we did not get selected
+‎[05/07/25, 8:53:30 PM] ~ Isha Sarvani: ‎<attached: 00000556-PHOTO-2025-07-05-20-53-31.jpg>
+[05/07/25, 8:54:42 PM] ~ Aaron Fritz: damn
+[05/07/25, 8:54:45 PM] ~ Aaron Fritz: issokay
+[05/07/25, 8:54:52 PM] Sambhavit Anand: oh
+[05/07/25, 8:54:50 PM] ~ Aaron Fritz: another one
+[05/07/25, 8:54:59 PM] Sambhavit Anand: i thought we did alright
+[05/07/25, 9:16:35 PM] ~ Isha Sarvani: I've seen others submission and they have described things in much more detail esp the tech part
+[15/08/25, 9:21:03 PM] ~ Isha Sarvani: Guys
+[15/08/25, 9:21:11 PM] ~ Isha Sarvani: Imma just reuse this group
+[15/08/25, 9:23:50 PM] ~ Isha Sarvani: I'm adding your details to the thing for now
+[15/08/25, 9:28:41 PM] ~ Isha Sarvani: ‎~ Isha Sarvani changed the group name to “Samsung Hackathon”
+[15/08/25, 10:50:44 PM] ~ Aaron Fritz: what
+[15/08/25, 10:50:45 PM] ~ Aaron Fritz: hi
+[15/08/25, 10:55:18 PM] ~ Isha Sarvani: @919946169883 @918779635194  which one of y'all wants to take the lead on Samsung thing
+[15/08/25, 10:55:57 PM] ~ Aaron Fritz: you take it
+[15/08/25, 10:55:59 PM] ~ Aaron Fritz: :)
+[15/08/25, 10:56:07 PM] ~ Aaron Fritz: the greatest leader of all time
+[15/08/25, 10:56:10 PM] ~ Aaron Fritz: also whats our PS
+[15/08/25, 10:56:22 PM] ~ Isha Sarvani: didn't all of us agree on 5
+[15/08/25, 10:56:27 PM] ~ Aaron Fritz: whats 5
+[15/08/25, 10:56:33 PM] ~ Isha Sarvani: just check group and text here
+[15/08/25, 10:56:41 PM] ~ Aaron Fritz: better protocol to finetune an llm?
+[15/08/25, 10:58:30 PM] ~ Isha Sarvani: yea
+[15/08/25, 10:58:35 PM] ~ Isha Sarvani: any others ?
+[15/08/25, 10:58:35 PM] ~ Aaron Fritz: mmm
+[15/08/25, 10:58:41 PM] ~ Aaron Fritz: nah that's good
+[15/08/25, 10:58:51 PM] ~ Aaron Fritz: very conceptual likely
+[15/08/25, 11:17:52 PM] ~ Isha Sarvani: Shreyas had the prototype of PS3
+[15/08/25, 11:17:58 PM] ~ Isha Sarvani: very
+[15/08/25, 11:18:14 PM] ~ Aaron Fritz: nice
+[15/08/25, 11:22:13 PM] ~ Isha Sarvani: omg you're alive @918779635194 🌷
+[15/08/25, 11:22:20 PM] Sambhavit Anand: hi yes
+[15/08/25, 11:23:19 PM] ~ Aaron Fritz: how you now
+[15/08/25, 11:23:31 PM] ~ Aaron Fritz: heard your immune system shot to shit
+[15/08/25, 11:23:43 PM] Sambhavit Anand: yeah i got fucked, skipping that
+[15/08/25, 11:23:53 PM] Sambhavit Anand: ps3 and ps5 look good
+[15/08/25, 11:24:01 PM] ~ Aaron Fritz: okay
+[15/08/25, 11:24:41 PM] Sambhavit Anand: @919063011127 how much of ps3 did he have done?
+[15/08/25, 11:25:47 PM] ~ Isha Sarvani: Ask him on the unoff ai chat
+[15/08/25, 11:26:24 PM] ~ Isha Sarvani: i don't think he mentioned poora earlier ekbaar puch lo
+[15/08/25, 11:27:03 PM] Sambhavit Anand: I’ll text him dm pe
+[15/08/25, 11:27:09 PM] ~ Isha Sarvani: okay
+[15/08/25, 11:42:36 PM] Sambhavit Anand: Hi so he said this
+[15/08/25, 11:43:01 PM] Sambhavit Anand: I did the app part
+[15/08/25, 11:43:01 PM] Sambhavit Anand: In Android studio
+[15/08/25, 11:43:01 PM] Sambhavit Anand: Like anywhere you press there will be log like this
+[15/08/25, 11:43:01 PM] Sambhavit Anand: Wait
+[15/08/25, 11:43:01 PM] Sambhavit Anand: ======== SERVICE STARTED ========
+Time: 2025-08-07 18:53:25.301
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.android.settings
+Class: com.android.settings.SubSettings
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:53:40.781
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 18:53:41.454
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:53:41.655
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:54:40.693
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 18:54:41.626
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:54:41.880
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:55:29.764
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.dialer
+Class: android.widget.ImageButton
+Text: N/A
+ContentDesc: backspace
+Coordinates (Center): (1006, 1268)
+------------------------------------
+Time: 2025-08-07 18:55:43.144
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: 3,DEF
+Coordinates (Center): (885, 1459)
+------------------------------------
+Time: 2025-08-07 18:55:44.009
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: 6,MNO
+Coordinates (Center): (885, 1649)
+------------------------------------
+Time: 2025-08-07 18:56:03.146
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:56:03.333
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:57:48.050
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 18:57:48.891
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:57:49.128
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:00:38.296
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:00:38.551
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:01:20.426
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:01:44.220
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Calculator
+ContentDesc: Calculator
+Coordinates (Center): (169, 831)
+------------------------------------
+Time: 2025-08-07 19:01:44.238
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.example.calculatortest
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:01:46.024
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.example.calculatortest
+Class: com.example.calculatortest.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:01:46.263
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.example.calculatortest
+Class: com.example.calculatortest.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:24.588
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:04:25.117
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: 
+Coordinates (Center): (540, 1146)
+------------------------------------
+Time: 2025-08-07 19:04:25.723
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:27.040
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:43.868
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:04:57.791
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 19:04:57.799
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:04:59.252
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:59.504
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:04.276
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:04.393
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:04.891
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:08.710
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:08.907
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:44.310
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 19:05:44.334
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:45.739
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:45.949
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+[15/08/25, 11:47:56 PM] ~ Aditya Ram: ‎~ Isha Sarvani added ~ Aditya Ram. Tap to change who can add other members.
+[15/08/25, 11:47:10 PM] ~ Isha Sarvani: So
+[15/08/25, 11:47:19 PM] ~ Isha Sarvani: 3rd or 5th tell abhi
+[15/08/25, 11:47:24 PM] ~ Isha Sarvani: I'm registering
+[15/08/25, 11:47:31 PM] ~ Isha Sarvani: @919946169883 @918779635194
+[15/08/25, 11:56:29 PM] ~ Aaron Fritz: what is 3rds
+[15/08/25, 11:48:04 PM] ~ Isha Sarvani: Check the link in the gro
+[15/08/25, 11:48:11 PM] ~ Isha Sarvani: This is for 3rd shreyas already started
+[15/08/25, 11:49:33 PM] ~ Isha Sarvani: @918779635194 @916366612244 @919946169883  So what do y'all think 3rd or 5th ?
+[15/08/25, 11:49:53 PM] ~ Aditya Ram: Resend the message no I can't see it
+[15/08/25, 11:50:13 PM] ~ Isha Sarvani: ======== SERVICE STARTED ========
+Time: 2025-08-07 18:53:25.301
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.android.settings
+Class: com.android.settings.SubSettings
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:53:40.781
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 18:53:41.454
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:53:41.655
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:54:40.693
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 18:54:41.626
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:54:41.880
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:55:29.764
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.dialer
+Class: android.widget.ImageButton
+Text: N/A
+ContentDesc: backspace
+Coordinates (Center): (1006, 1268)
+------------------------------------
+Time: 2025-08-07 18:55:43.144
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: 3,DEF
+Coordinates (Center): (885, 1459)
+------------------------------------
+Time: 2025-08-07 18:55:44.009
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: 6,MNO
+Coordinates (Center): (885, 1649)
+------------------------------------
+Time: 2025-08-07 18:56:03.146
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:56:03.333
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:57:48.050
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 18:57:48.891
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 18:57:49.128
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:00:38.296
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:00:38.551
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:01:20.426
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:01:44.220
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Calculator
+ContentDesc: Calculator
+Coordinates (Center): (169, 831)
+------------------------------------
+Time: 2025-08-07 19:01:44.238
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.example.calculatortest
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:01:46.024
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.example.calculatortest
+Class: com.example.calculatortest.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:01:46.263
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.example.calculatortest
+Class: com.example.calculatortest.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:24.588
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:04:25.117
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: 
+Coordinates (Center): (540, 1146)
+------------------------------------
+Time: 2025-08-07 19:04:25.723
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:27.040
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:43.868
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:04:57.791
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 19:04:57.799
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:04:59.252
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:04:59.504
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:04.276
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:04.393
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:04.891
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:08.710
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: com.google.android.apps.nexuslauncher.NexusLauncherActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:08.907
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.ListView
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:44.310
+EventType: TYPE_VIEW_CLICKED
+App: com.google.android.apps.nexuslauncher
+Class: android.widget.TextView
+Text: Phone
+ContentDesc: Phone
+Coordinates (Center): (169, 1970)
+------------------------------------
+Time: 2025-08-07 19:05:44.334
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: android.widget.FrameLayout
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): N/A
+------------------------------------
+Time: 2025-08-07 19:05:45.739
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+Time: 2025-08-07 19:05:45.949
+EventType: TYPE_WINDOW_STATE_CHANGED
+App: com.google.android.dialer
+Class: com.android.dialer.main.impl.MainActivity
+Text: N/A
+ContentDesc: N/A
+Coordinates (Center): (540, 1200)
+------------------------------------
+[15/08/25, 11:50:32 PM] ~ Aaron Fritz: ps5
+[15/08/25, 11:50:36 PM] ~ Aaron Fritz: i vote ps5
+[15/08/25, 11:50:39 PM] ~ Aaron Fritz: y'all decide now
+[15/08/25, 11:50:56 PM] ~ Isha Sarvani: I don't have an issue with either
+[15/08/25, 11:51:06 PM] ~ Isha Sarvani: @916366612244 are you okay with ps5 ?
+[15/08/25, 11:51:29 PM] ~ Isha Sarvani: Fine tuning wala
+[15/08/25, 11:51:42 PM] ~ Aditya Ram: Yeah I'm fine
+[15/08/25, 11:51:47 PM] ~ Isha Sarvani: Okay
+[15/08/25, 11:52:21 PM] ~ Aditya Ram: How long did y'all take to decide which ps to choose
+[15/08/25, 11:52:55 PM] ~ Isha Sarvani: Since our thing is Based on fine tuning , I'm naming it FineNite ? is that alr
+[15/08/25, 11:53:04 PM] Sambhavit Anand: sure
+[15/08/25, 11:53:39 PM] ~ Isha Sarvani: We got the ps this eve so not very long
+[15/08/25, 11:59:53 PM] ~ Aaron Fritz: isha make it infinite
+[16/08/25, 12:00:16 AM] ~ Isha Sarvani: The deadline is 12
+[16/08/25, 12:00:21 AM] ~ Aaron Fritz: bitchass
+[16/08/25, 12:00:22 AM] ~ Isha Sarvani: Already registered
+[16/08/25, 12:00:26 AM] ~ Aaron Fritz: good shit
+[16/08/25, 12:00:48 AM] ~ Isha Sarvani: FineNite is more on topic
+[16/08/25, 12:01:13 AM] ~ Aaron Fritz: but its a shit fucking name
+[16/08/25, 12:01:18 AM] ~ Aaron Fritz: all people are gonna see
+[16/08/25, 12:01:21 AM] ~ Aaron Fritz: is that we're finite
+[16/08/25, 12:01:34 AM] ~ Aditya Ram: 😭
+[16/08/25, 12:01:48 AM] ~ Isha Sarvani: infinenite sounds like a 13 year old named it
+[16/08/25, 12:01:49 AM] ~ Isha Sarvani: 😭
+[16/08/25, 12:02:03 AM] ~ Isha Sarvani: I contemplated for a while
+[16/08/25, 12:02:05 AM] ~ Aaron Fritz: you sound like a 13 yr old named it
+[16/08/25, 12:02:07 AM] ~ Isha Sarvani: And asked
+[16/08/25, 12:02:11 AM] ~ Isha Sarvani: In the group
+[16/08/25, 12:02:31 AM] ~ Aaron Fritz: u did?
+[16/08/25, 12:02:37 AM] ~ Aaron Fritz: ahh fuck it
+[16/08/25, 12:02:40 AM] ~ Isha Sarvani: ??
+[16/08/25, 12:02:48 AM] ~ Aaron Fritz: lowk didn't see any of that
+[16/08/25, 12:02:52 AM] ~ Aaron Fritz: im on vacation
+[16/08/25, 12:03:14 AM] ~ Isha Sarvani: lowk you need this : 🦯
+[16/08/25, 12:03:31 AM] ~ Aaron Fritz: tf is that emoji even
+[16/08/25, 12:03:35 AM] ~ Aaron Fritz: a cigarette?
+[16/08/25, 12:03:37 AM] ~ Aaron Fritz: a stick?
+[16/08/25, 12:03:42 AM] ~ Isha Sarvani: i typed blind it showed up
+[16/08/25, 12:03:49 AM] ~ Aaron Fritz: damn
+[16/08/25, 12:03:53 AM] ~ Aaron Fritz: crazy
+[16/08/25, 12:04:08 AM] ~ Aaron Fritz: if only you'd use a lil of that brain on these hackathons
+[16/08/25, 12:04:19 AM] ~ Aaron Fritz: we might just come close to seeing top 100
+[16/08/25, 12:04:45 AM] ~ Isha Sarvani: hopefully this time you don't submit a chatgpt link in the name of contribution
+[16/08/25, 12:04:52 AM] ~ Aaron Fritz: damn
+[16/08/25, 12:04:53 AM] ~ Aaron Fritz: okay
+[16/08/25, 12:05:05 AM] ~ Aaron Fritz: maybe next time
+[16/08/25, 12:05:07 AM] ~ Aaron Fritz: fuck fine
+[16/08/25, 12:05:12 AM] ~ Aaron Fritz: we'll get on w it
+[16/08/25, 12:05:20 AM] ~ Aaron Fritz: FineNite it is
+[16/08/25, 12:05:26 AM] ~ Aaron Fritz: but the second i see an edit option
+[16/08/25, 12:05:35 AM] ~ Aaron Fritz: its gonna be InFineNite
+[16/08/25, 12:05:39 AM] ~ Aaron Fritz: fuck yeah
+[16/08/25, 12:06:44 AM] ~ Isha Sarvani: okayy
+[16/08/25, 12:11:31 PM] ~ Aaron Fritz: what's our timeline
+[16/08/25, 12:11:34 PM] ~ Aaron Fritz: division of tasks
+[16/08/25, 12:11:37 PM] ~ Aaron Fritz: deliverables
+[16/08/25, 12:11:42 PM] ~ Aaron Fritz: who team lead
+[16/08/25, 12:13:02 PM] ~ Isha Sarvani: me
+[16/08/25, 12:13:10 PM] ~ Isha Sarvani: Check the link ko
+[16/08/25, 12:13:13 PM] ~ Isha Sarvani: Send ss here
+[16/08/25, 12:13:28 PM] ~ Aaron Fritz: Pin the link pls
+[16/08/25, 12:15:54 PM] ~ Aaron Fritz: https://ennovatex.io/ai-challenge/
+‎[16/08/25, 12:16:26 PM] ~ Aaron Fritz: ‎<attached: 00000677-PHOTO-2025-08-16-12-16-27.jpg>
+[16/08/25, 12:16:56 PM] ~ Aaron Fritz: lmfao eval is in less than two weeks
+[16/08/25, 12:16:58 PM] ~ Aaron Fritz: wtf
+[16/08/25, 12:17:04 PM] ~ Aaron Fritz: ‎~ Aaron Fritz pinned a message
+[16/08/25, 12:17:22 PM] ~ Aaron Fritz: hell nah, start research today if we're taking this seriously
+[16/08/25, 12:17:35 PM] ~ Aaron Fritz: I'll be occupied for most of the day but I'll try send whatever research i have
+[16/08/25, 12:18:01 PM] ~ Aaron Fritz: what all do we have active rn, 
+
+Cybercup and this right?
+[16/08/25, 12:18:06 PM] ~ Aaron Fritz: any ai tasks pending?
+[16/08/25, 12:18:09 PM] ~ Aaron Fritz: @919063011127
+[16/08/25, 12:18:15 PM] ~ Aaron Fritz: Other than our research projects
+[16/08/25, 12:18:43 PM] ~ Aaron Fritz: deprioritize cybercup for next week
+[16/08/25, 12:18:45 PM] ~ Isha Sarvani: Helo I'm  travelling today
+[16/08/25, 12:18:55 PM] ~ Aaron Fritz: fine we start work sunday
+[16/08/25, 12:19:13 PM] ~ Isha Sarvani: I think it's on higher priority
+[16/08/25, 12:19:19 PM] ~ Isha Sarvani: Talk to Addy ek baar
+[16/08/25, 12:20:40 PM] ~ Aditya Ram: are y'all in campus or did you go home
+[16/08/25, 12:25:24 PM] ~ Aaron Fritz: i went home dk about her
+[16/08/25, 12:25:48 PM] ~ Aaron Fritz: we'll decide after gauging the feasibility of the task
+[16/08/25, 12:26:17 PM] ~ Aaron Fritz: if it's actually feasible and we have a chance
+[16/08/25, 12:26:30 PM] ~ Aaron Fritz: we go all in
+[16/08/25, 12:26:53 PM] ~ Aaron Fritz: de prioritize doesn't mean ignore or avoid
+[16/08/25, 12:27:07 PM] ~ Aaron Fritz: means it takes secondary preference during the duration
+[16/08/25, 12:32:30 PM] ~ Aditya Ram: Fine sunday we'll hold a gmeet to decide work split and everything else that's required
+[16/08/25, 12:33:03 PM] ~ Aaron Fritz: i think sunday 3 of us will likely meet in cryptonite
+[16/08/25, 12:33:15 PM] ~ Aaron Fritz: if isha and sambhavit shows up
+[16/08/25, 12:33:25 PM] ~ Aaron Fritz: wanna do it offline?
+[16/08/25, 12:33:49 PM] ~ Aditya Ram: But you're at home rn no
+[16/08/25, 12:34:18 PM] ~ Aditya Ram: I mean I don't mind meeting offline
+[16/08/25, 12:35:28 PM] ~ Aaron Fritz: I'll be there for tomorrow meet
+[16/08/25, 12:35:44 PM] ~ Aaron Fritz: I'll reach morning
+[16/08/25, 12:35:48 PM] ~ Aaron Fritz: i leave tonight
+[16/08/25, 12:41:31 PM] ~ Aditya Ram: Ohh then peace
+[16/08/25, 7:33:59 PM] Sambhavit Anand: I will reach monday morning
+[17/08/25, 10:22:23 AM] ~ Aditya Ram: So are we doing it online then?
+[17/08/25, 10:25:10 AM] ~ Aaron Fritz: Ab4
+[17/08/25, 10:25:12 AM] ~ Aaron Fritz: 506
+[17/08/25, 11:49:10 AM] ~ Isha Sarvani: https://github.com/ennovatex-io/ai-challenge-submission-template
+[17/08/25, 11:49:25 AM] ~ Isha Sarvani: This is what is Expected of us
+‎[17/08/25, 11:50:09 AM] ~ Isha Sarvani: ‎<attached: 00000715-PHOTO-2025-08-17-11-50-10.jpg>
+[17/08/25, 11:50:52 AM] ~ Isha Sarvani: Do you guys have any Ideas so far?
+[17/08/25, 4:14:42 PM] ~ Aditya Ram: Are you guys free at 6
+[17/08/25, 4:14:46 PM] ~ Aditya Ram: We can meet then
+[17/08/25, 5:27:45 PM] ~ Aditya Ram: @919946169883 @918779635194 ?
+[17/08/25, 5:28:21 PM] ~ Aaron Fritz: umm
+[17/08/25, 5:28:22 PM] ~ Aaron Fritz: sure
+[17/08/25, 5:28:27 PM] ~ Aaron Fritz: but what do we discuss on?
+[17/08/25, 5:28:35 PM] ~ Aaron Fritz: sambavith wont arrive back until monday
+[17/08/25, 5:28:38 PM] ~ Aaron Fritz: idk if he's online
+[17/08/25, 5:31:02 PM] Sambhavit Anand: I’m at the airport right now, will reach monday early morning
+[17/08/25, 5:32:29 PM] ~ Isha Sarvani: Good point
+[17/08/25, 5:35:58 PM] ~ Aditya Ram: Initially I think we just need to have the same understanding of the ps
+[17/08/25, 5:36:06 PM] ~ Aaron Fritz: works
+[17/08/25, 5:36:13 PM] Sambhavit Anand: I’m down for a gmeet
+[17/08/25, 5:36:33 PM] ~ Aditya Ram: Rn?
+[17/08/25, 5:37:05 PM] ~ Aditya Ram: If you're at the airport I don't wanna inconvenience you
+[17/08/25, 5:37:47 PM] Sambhavit Anand: no i can join a meet
+[17/08/25, 5:39:38 PM] ~ Aditya Ram: Ok fine
+[17/08/25, 5:39:47 PM] ~ Aditya Ram: We'll do it at 6 only
+[17/08/25, 5:40:17 PM] Sambhavit Anand: eh, might be in the air at 6
+[17/08/25, 5:40:25 PM] Sambhavit Anand: you guys can have the meet
+[17/08/25, 5:40:31 PM] ~ Isha Sarvani: can we do it at night ?
+[17/08/25, 5:40:36 PM] Sambhavit Anand: yes
+[17/08/25, 5:40:36 PM] ~ Isha Sarvani: 11:30 ke baad ?
+[17/08/25, 5:40:47 PM] Sambhavit Anand: perfect
+[17/08/25, 5:40:48 PM] ~ Aditya Ram: If everyone else is free then sure
+[17/08/25, 5:41:16 PM] ~ Aditya Ram: You have a connecting flight huh
+[17/08/25, 5:42:15 PM] Sambhavit Anand: no I land at 8
+[17/08/25, 5:42:30 PM] Sambhavit Anand: we can do meet at around 11:30
+[17/08/25, 11:31:14 PM] ~ Aditya Ram: should we have the meet now?
+[17/08/25, 11:31:16 PM] ~ Isha Sarvani: Helo?
+[17/08/25, 11:31:19 PM] ~ Isha Sarvani: yeah
+[17/08/25, 11:31:22 PM] ~ Isha Sarvani: Sending link
+[17/08/25, 11:32:38 PM] ~ Isha Sarvani: meet.google.com/tgk-fseu-xer
+[17/08/25, 11:32:44 PM] ~ Isha Sarvani: @918779635194 @919946169883
+[17/08/25, 11:33:41 PM] ~ Isha Sarvani: @916366612244
+[17/08/25, 11:51:46 PM] Sambhavit Anand: sorry ibus got fucked
+[18/08/25, 12:04:14 AM] ~ Aditya Ram: @919063011127 are we deciding the work split rn?
+[18/08/25, 12:04:44 AM] Sambhavit Anand: yes split it now and assign tasks
+[18/08/25, 12:04:49 AM] Sambhavit Anand: someone take lead
+[18/08/25, 12:05:36 AM] ~ Aditya Ram: i'd like one of you three to take lead
+[18/08/25, 12:05:44 AM] ~ Isha Sarvani: - what framework to use for appdev
+- What kind of Llm to use and why 
+- piecing together everything how to tie things up between the app and working llm
+[18/08/25, 12:06:09 AM] ~ Isha Sarvani: any changes
+[18/08/25, 12:06:44 AM] ~ Aditya Ram: i don't mind doing appdev but the thing is i'd have to do it in parallel while you guys are fine tuning the LLM
+[18/08/25, 12:06:59 AM] ~ Aditya Ram: i can't just do it separately
+[18/08/25, 12:08:12 AM] Sambhavit Anand: yeah understandable
+[18/08/25, 12:08:21 AM] ~ Isha Sarvani: yeah that makes
+[18/08/25, 12:08:36 AM] Sambhavit Anand: let 2 people work on appdev so that everyone can be part of the main LLM tuning
+[18/08/25, 12:09:28 AM] ~ Isha Sarvani: yeah
+[18/08/25, 12:10:20 AM] ~ Aditya Ram: by the deadline we can just show it working for a pre existing dataset
+[18/08/25, 12:10:31 AM] ~ Aditya Ram: if we get past the first round then we can fully implement it
+[18/08/25, 1:17:19 PM] ~ Aditya Ram: You guys are going to be in ab4 at 5pm right
+[18/08/25, 1:17:38 PM] ~ Aditya Ram: If you guys are discussing the hackathon asw I'll also pull up
+[18/08/25, 1:36:36 PM] ~ Aaron Fritz: hey sorry for the inactivity, went to sleep
+[18/08/25, 1:36:38 PM] ~ Aaron Fritz: tiring day
+[18/08/25, 1:36:44 PM] ~ Aaron Fritz: will be there 5 pm
+[18/08/25, 2:44:02 PM] ~ Aaron Fritz: assuming we're still on PS#5
+[18/08/25, 2:44:28 PM] ~ Aaron Fritz: here's my take
+- we need to look into how lora qlora works and how we can optim it for handheld models
+- assess the hardware specs
+- and see how we can make our protocol stand out
+- and example would be a smaller ai model which tracks resource usage of the device, and run the training at times when resource usage is minimal (when the user goes to sleep, etc) ‎<This message was edited>
+[18/08/25, 2:46:45 PM] ~ Aaron Fritz: idk how far we can mod the finetuning aspect, we'll have to use heavily quantized models
+[18/08/25, 2:49:58 PM] ~ Aaron Fritz: also look into the concept of adapters in fine tuning
+adapters in summary are like parts of the models vast params we actually "train"
+[18/08/25, 2:50:46 PM] ~ Aaron Fritz: tiny trainable layers, if you will
+[18/08/25, 2:53:00 PM] ~ Aaron Fritz: so an adapter protocol 
+where adapters = small swappable modules
+where each module can be used for a different aspect of user context
+[18/08/25, 2:53:12 PM] ~ Aaron Fritz: we could train it on the users WhatsApp messaging styles
+[18/08/25, 2:53:16 PM] ~ Aaron Fritz: now it can respond for you
+[18/08/25, 2:53:19 PM] ~ Aaron Fritz: shit like that
+[18/08/25, 2:53:22 PM] ~ Aaron Fritz: cool stuff
+[18/08/25, 3:15:53 PM] ~ Aditya Ram: We'll have to pick a base model before fine tuning using qlora
+[18/08/25, 3:16:34 PM] ~ Aaron Fritz: Mistral 7b instruct
+[18/08/25, 3:16:37 PM] ~ Aaron Fritz: easy choice
+[18/08/25, 3:16:40 PM] ~ Aaron Fritz: or wait
+[18/08/25, 3:16:51 PM] ~ Aaron Fritz: Mistral 7b base
+[18/08/25, 3:17:08 PM] ~ Aaron Fritz: We don't need instruct
+[18/08/25, 4:46:16 PM] ~ Aditya Ram: I won't be coming at 5 I'm kinda busy
+[18/08/25, 4:46:46 PM] ~ Aditya Ram: If you guys do discuss the ps or starting working on it could you please fill me in
+[18/08/25, 4:47:20 PM] ~ Aaron Fritz: will do
+[18/08/25, 4:49:24 PM] Sambhavit Anand: +1
+[19/08/25, 4:41:47 PM] ~ Aditya Ram: Are we meeting?
+[19/08/25, 4:42:07 PM] ~ Aaron Fritz: when?
+[19/08/25, 4:43:51 PM] ~ Aaron Fritz: I'm gonna be out till 7
+[19/08/25, 4:43:56 PM] ~ Aaron Fritz: I'm free after that
+[19/08/25, 4:44:00 PM] ~ Aaron Fritz: also I did some research
+[19/08/25, 4:44:22 PM] ~ Aaron Fritz: i think I'm close to plab
+[19/08/25, 4:44:30 PM] ~ Aaron Fritz: I'll compile it all and send a written report
+[19/08/25, 4:44:44 PM] ~ Aaron Fritz: online meet, or I'll pull up someplace offline
+[19/08/25, 4:44:50 PM] ~ Aaron Fritz: sp or sm shit
+‎[19/08/25, 4:47:36 PM] ~ Aaron Fritz: ‎<attached: 00000801-PHOTO-2025-08-19-16-47-37.jpg>
+[19/08/25, 4:47:41 PM] ~ Aaron Fritz: I'm still yet to verify all of this
+[19/08/25, 4:47:54 PM] ~ Aaron Fritz: see what's existing comp, difficulty to implement, shit like that
+‎[19/08/25, 4:49:22 PM] ~ Aaron Fritz: ‎<attached: 00000804-PHOTO-2025-08-19-16-49-23.jpg>
+[19/08/25, 4:49:33 PM] ~ Aaron Fritz: we could sort of build this, in a week
+[19/08/25, 4:49:41 PM] ~ Aaron Fritz: hope this makes sense
+‎[19/08/25, 8:37:59 PM] ~ Aaron Fritz: Ideation Report.docx • ‎1 page ‎<attached: 00000807-Ideation Report.docx>
+‎[19/08/25, 8:37:59 PM] ~ Aaron Fritz: Tech Stack + Roadmap.docx • ‎4 pages ‎<attached: 00000808-Tech Stack + Roadmap.docx>
+‎[19/08/25, 8:37:59 PM] ~ Aaron Fritz: Executive Summary.docx • ‎2 pages ‎<attached: 00000809-Executive Summary.docx>
+[19/08/25, 8:38:01 PM] ~ Aaron Fritz: god bless
+[19/08/25, 8:38:10 PM] ~ Aaron Fritz: read when y'all get time, and by that i mean read now
+[19/08/25, 8:38:28 PM] ~ Aaron Fritz: do exec summary, then tech stack + roadmap then finally ideation
+[19/08/25, 8:38:38 PM] ~ Aaron Fritz: get a good understanding, gpt shit you don't understand
+[19/08/25, 9:14:20 PM] ~ Aaron Fritz: any thoughts, like any reaction?
+[19/08/25, 9:14:27 PM] ~ Aaron Fritz: how feasible does it sound
+[19/08/25, 10:07:02 PM] ~ Aditya Ram: sounds feasible for the most part
+[19/08/25, 10:07:41 PM] ~ Aditya Ram: if it's local do we really need strong encryption though?
+[19/08/25, 10:10:42 PM] ~ Aditya Ram: i think the main thing are the adapters on which we'll apply qlora for fine tuning
+[19/08/25, 10:11:09 PM] ~ Aaron Fritz: i think that was put in there cause of the ethics and arch md files
+[19/08/25, 10:11:20 PM] ~ Aaron Fritz: like conceptually, we would need encryption
+[19/08/25, 10:11:27 PM] ~ Aditya Ram: right now one person should make a dataset (small one for now)
+[19/08/25, 10:11:40 PM] ~ Aditya Ram: we can do that after this first round
+[19/08/25, 10:12:04 PM] ~ Aditya Ram: @919063011127 @918779635194 thoughts?
+[19/08/25, 10:12:29 PM] Sambhavit Anand: will go over what is sent and get back to you guys
+[21/08/25, 1:14:11 PM] ~ Aaron Fritz: guys
+[21/08/25, 1:14:12 PM] ~ Aaron Fritz: hi
+[21/08/25, 1:14:20 PM] Sambhavit Anand: hi
+[21/08/25, 1:14:34 PM] ~ Aaron Fritz: are we all finally on the same page
+[21/08/25, 1:14:38 PM] ~ Aaron Fritz: @919063011127 @916366612244
+[21/08/25, 1:14:42 PM] ~ Aaron Fritz: @918779635194
+[21/08/25, 1:14:44 PM] Sambhavit Anand: yes
+[21/08/25, 1:15:05 PM] ~ Aaron Fritz: how do you think we should proceed
+[21/08/25, 1:15:07 PM] Sambhavit Anand: read through it and have some thoughts, have a full day today will lyk in a bit ‎<This message was edited>
+[21/08/25, 1:15:10 PM] ~ Aaron Fritz: when can we all get together for a meet
+[21/08/25, 1:15:41 PM] Sambhavit Anand: i’m ok with meeting today
+[21/08/25, 1:16:55 PM] ~ Aaron Fritz: pls coordinate with the other two
+[21/08/25, 1:16:58 PM] ~ Aaron Fritz: when they come online
+[21/08/25, 1:20:20 PM] ~ Aditya Ram: Offline or online
+[21/08/25, 1:20:32 PM] ~ Aaron Fritz: anything at this point
+[21/08/25, 1:20:36 PM] Sambhavit Anand: both are fine with me
+[21/08/25, 1:20:37 PM] ~ Aaron Fritz: whatever is most convinient
+[21/08/25, 1:20:42 PM] ~ Aaron Fritz: we need to get the ball rolling
+[21/08/25, 1:20:45 PM] Sambhavit Anand: preferably offline if possible
+[21/08/25, 1:20:52 PM] ~ Aditya Ram: Yeah
+[21/08/25, 1:20:54 PM] ~ Aaron Fritz: i genuinely feel like we have a winner
+[21/08/25, 1:21:00 PM] ~ Aaron Fritz: we just really need to get started
+[21/08/25, 1:21:40 PM] ~ Aditya Ram: Next week I'll be busy with OTs so we need to do most of it by end of this week
+[21/08/25, 1:22:11 PM] ~ Aaron Fritz: np np, if we get started we'll do most of the heavy lifting
+[21/08/25, 1:22:35 PM] Sambhavit Anand: offline meet at 4:45?
+[21/08/25, 1:22:49 PM] ~ Aaron Fritz: yeah i can probably make that
+[21/08/25, 1:22:51 PM] ~ Aditya Ram: Im down
+[21/08/25, 1:22:55 PM] ~ Aaron Fritz: might come around 5 maybe worst case
+[21/08/25, 1:22:58 PM] Sambhavit Anand: ok then
+[21/08/25, 1:23:04 PM] Sambhavit Anand: @919063011127
+[21/08/25, 1:23:06 PM] ~ Aaron Fritz: get isha online
+[21/08/25, 1:23:22 PM] ~ Aditya Ram: Are any of you guys doing workshop demo
+[21/08/25, 1:23:31 PM] Sambhavit Anand: not me
+[21/08/25, 1:23:56 PM] ~ Aaron Fritz: i have volunteering today
+[21/08/25, 1:24:44 PM] Sambhavit Anand: timings?
+[21/08/25, 1:25:08 PM] ~ Aaron Fritz: 6 is workshop
+[21/08/25, 1:25:13 PM] ~ Aaron Fritz: will have to be there before
+[21/08/25, 1:25:17 PM] ~ Aaron Fritz: but we can all sit and discuss
+[21/08/25, 1:25:22 PM] ~ Aaron Fritz: i'll likely sit w my laptop and work
+[21/08/25, 1:26:32 PM] Sambhavit Anand: yeah 4:45 to 5:30/5:45 should be enough, I can wait till late but isha and I will have a quiz from 5:30-6 ‎<This message was edited>
+[21/08/25, 1:27:28 PM] ~ Aditya Ram: Yeah ok
+[21/08/25, 1:27:33 PM] ~ Aditya Ram: I don't have my laptop w me
+[21/08/25, 1:27:56 PM] ~ Aaron Fritz: thats fine
+[21/08/25, 1:28:03 PM] ~ Aaron Fritz: also i'll be doing a lil bit of appdev starting todau
+[21/08/25, 1:28:11 PM] ~ Aaron Fritz: to be able to vibecode a bare minimum interface
+[21/08/25, 1:28:50 PM] ~ Aditya Ram: Ok
+[21/08/25, 2:32:46 PM] ~ Isha Sarvani: Alrighty offline meet
+[21/08/25, 4:53:49 PM] ~ Aditya Ram: Are you guys in 105 rn?
+[21/08/25, 4:54:01 PM] ~ Aaron Fritz: otw
+[21/08/25, 4:54:03 PM] ~ Aaron Fritz: will reach soon
+[21/08/25, 4:54:13 PM] ~ Aaron Fritz: 5 mins
+[21/08/25, 4:59:19 PM] ~ Aaron Fritz: I'm here
+[21/08/25, 4:59:24 PM] ~ Aaron Fritz: where y'all
+[21/08/25, 4:59:35 PM] ~ Aditya Ram: 203
+[21/08/25, 4:59:45 PM] ~ Aaron Fritz: are we supposed to be in 203,
+[21/08/25, 4:59:47 PM] ~ Aaron Fritz: ?
+[21/08/25, 5:00:01 PM] ~ Aaron Fritz: should I come there or you coming here?
+[21/08/25, 5:00:08 PM] ~ Aditya Ram: Yeah the workshop demo is happening here only
+[21/08/25, 5:00:13 PM] ~ Aaron Fritz: oh shit
+[21/08/25, 5:00:44 PM] ~ Isha Sarvani: Aajao
+[21/08/25, 5:17:49 PM] ~ Isha Sarvani: - Front end ( chatting push to talk, flutter , luvable , )
+- message goes to backend and we need to figure out got to do it on the machine 
+- on board llm running 
+- adapter protocol how to implement 
+- showing stats in the front end ( how much time it took. When it happened )
+- how to emulate the system 
+- how to route and activate a certain adapter 
+- concept of adapters
+[21/08/25, 5:19:39 PM] ~ Isha Sarvani: - First priority, emulate the device 
+- Llm 
+- export data 
+- train the llm to 
+- frontend 
+- emulation data extraction 
+- preprocessing data 
+- how the emulation works in the server 
+- once this is done we can all work on the training
+[21/08/25, 5:25:52 PM] ~ Isha Sarvani: Isha , @916366612244 : Look into LLM , How to build the Protocol , start to finish, scope out all possible errors and difficulties we might face and give it in a written report .
+[21/08/25, 5:26:01 PM] ~ Isha Sarvani: Sambhavit - preprocessing
+[21/08/25, 5:26:06 PM] ~ Isha Sarvani: Aaron - emulation
+[21/08/25, 6:25:18 PM] ~ Aaron Fritz: we can emulate on the machine
+[21/08/25, 6:25:18 PM] ~ Aaron Fritz: but
+[21/08/25, 6:25:20 PM] ~ Aaron Fritz: sudo
+[21/08/25, 6:25:23 PM] ~ Aaron Fritz: I need to make installs
+[22/08/25, 10:19:54 AM] Sambhavit Anand: Where do you want me to extract the data from for the preprocessing
+[22/08/25, 10:20:06 AM] Sambhavit Anand: I can then work on creating the file structure asw
+‎[22/08/25, 8:02:16 PM] ~ Aditya Ram: LLM integration.docx • ‎4 pages ‎document omitted
+[23/08/25, 6:07:03 PM] ~ Aaron Fritz: guys
+[23/08/25, 6:07:10 PM] ~ Aaron Fritz: emulation is a bitch
+[23/08/25, 6:07:14 PM] Sambhavit Anand: .
+[23/08/25, 6:07:33 PM] ~ Aaron Fritz: ahhhhh, WhatsApp use one of your chats
+[23/08/25, 6:07:52 PM] ~ Aaron Fritz: filter out all the sexting and sensitive info
+[23/08/25, 6:08:05 PM] ~ Aaron Fritz: or use online existing dataset, if exists
+[23/08/25, 6:08:19 PM] ~ Aaron Fritz: same goes for calander
+[23/08/25, 6:08:25 PM] ~ Aaron Fritz: just use online datasets for all
+[23/08/25, 6:09:28 PM] ~ Aaron Fritz: also another thing, 7b might be too much
+[23/08/25, 6:09:40 PM] ~ Aaron Fritz: might have to settle for somthn 3+ near 4

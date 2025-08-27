@@ -1,0 +1,12 @@
+{
+  "model_name": "microsoft/Phi-3-mini-4k-instruct",
+  "adapter_name": "communication_v1",
+  "train_data": "C:\\Users\\Aditya Ram\\Documents\\Cryptonite\\Samsung\\data\\processed\\filtered.jsonl",
+  "output_dir": "C:\\Users\\Aditya Ram\\Documents\\Cryptonite\\Samsung\\adapters\\comm_v1",
+  "num_epochs": 1,
+  "batch_size": 1,
+  "learning_rate": 0.0001,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "max_length": 512
+}
